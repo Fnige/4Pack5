@@ -172,8 +172,3 @@ metafile = true
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "10d6b259205e6ad804c75cefc66706521c0ffa91ea0a3c4951a6717aa8a1ea65"
 metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
-metafile = true
