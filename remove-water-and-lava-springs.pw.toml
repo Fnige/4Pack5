@@ -1,0 +1,13 @@
+name = "Remove Water And Lava Springs"
+filename = "Remove _Water_And_Lava_Springs-1.19.3-1.21.8-3.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33c522c957602a21b97d3c716a4dfdb961365de4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6800953
+project-id = 1307867
