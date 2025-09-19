@@ -5,6 +5,11 @@ file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
 
 [[files]]
+file = "config/openloader/data/remove-water-and-lava-springs.pw.toml"
+hash = "98c06b2caa2f085c9cabcc17d42d3374b0c91e039f9bafb435a1600fb6094984"
+metafile = true
+
+[[files]]
 file = "mods/abandoned-villages.pw.toml"
 hash = "43404bc2dc411d1ad1e53c023283055d35c9c6a60dd743936f39e48b4aa6a25c"
 metafile = true
@@ -76,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "2e7cd0c0fbb163ed61ecf169b59808cbd320971148b7cc9e03c3fa6291527fe3"
+hash = "ebe45fc650931b32c8d70e85942a530f20f7e013e584af29cb46756c3d970246"
 metafile = true
 
 [[files]]
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
-hash = "c56534f8cc3dd924da2de398d09fa67552380cbc0b6826d9ff04c8b9ff620806"
+hash = "80f64264e3f2e28d037c05168f0ad90363ebd1a452a603dae761833d398abcc1"
 metafile = true
 
 [[files]]
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+hash = "45c55bdbbf2240dfa30cedb5cd437f5716ccf09a707dcdffbe7f39af3e19ff7f"
 metafile = true
 
 [[files]]
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
 metafile = true
 
 [[files]]
@@ -197,9 +202,4 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
-metafile = true
-
-[[files]]
-file = "remove-water-and-lava-springs.pw.toml"
-hash = "98c06b2caa2f085c9cabcc17d42d3374b0c91e039f9bafb435a1600fb6094984"
 metafile = true
