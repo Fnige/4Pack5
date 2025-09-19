@@ -5,10 +5,6 @@ file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
 
 [[files]]
-file = "config/openloader/data/Continents-1.1.8.zip"
-hash = "947c3ecaf11e62bc3ba137b1e89ce1bee60bb3d082efdefaafe35bff8123d219"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
