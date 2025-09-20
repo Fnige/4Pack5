@@ -110,6 +110,11 @@ hash = "7f4f50fb3010b6496b97c7d1b20ff68dc3031839a9f9724040a03426c1219069"
 metafile = true
 
 [[files]]
+file = "mods/forgery.pw.toml"
+hash = "343bfc7b831ddd7998b64885afc5be6b738915d1dada10e4ff9394e64e11f56c"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "af1270987203e41ee2ac5a293bda1f4c49d6d2d40408431d92d61a5fc3eca82b"
 metafile = true
