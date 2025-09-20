@@ -50,6 +50,11 @@ hash = "ae59ca8f783bbcac6cdb6949fea22910bcace2f4532f5f2a5385a591da1e1acf"
 metafile = true
 
 [[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "bf74fe82219a9c6f87aea0e668391512aaa485498ae66f2f79fbbacbb39bcbb7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
 metafile = true
