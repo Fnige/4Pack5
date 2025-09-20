@@ -1,0 +1,13 @@
+name = "consistent jungle leaves"
+filename = "consistent-jungle-leaves-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nllbj4SA/versions/RgIShfLK/consistent-jungle-leaves-1.jar"
+hash-format = "sha512"
+hash = "30cf6e53bff9c089d00b9ca2234e614542fd4f3c5e6ac4078ae293d629e6ff8639a3aa0bd5fdb51e2bc94209250b9470a3d7b0571544336475310af747912aea"
+
+[update]
+[update.modrinth]
+mod-id = "Nllbj4SA"
+version = "RgIShfLK"
