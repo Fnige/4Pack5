@@ -370,6 +370,11 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "4a631f8cba58afa73fb1de8bd9904c983f32bd6ed05ec67c95c7cd547807043c"
+metafile = true
+
+[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
