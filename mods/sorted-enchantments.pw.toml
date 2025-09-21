@@ -1,0 +1,13 @@
+name = "Sorted Enchantments"
+filename = "sorted_enchantments-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmHEp0Dv/versions/Ic49Okgp/sorted_enchantments-1.0.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "84899ea64d7af5440237835391c0170491ed62efb1df8f7b5ea2d320b8a2c15a85d9b49586d8638aa31ae541226f4173af46b274218766c898e517fccf198754"
+
+[update]
+[update.modrinth]
+mod-id = "jmHEp0Dv"
+version = "Ic49Okgp"

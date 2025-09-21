@@ -25,6 +25,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "6d28b12a4ec6b43db9a02fd8c2a035d0a3af74a51a4fdb69f89da5f50c7ce315"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
 
 [[files]]
@@ -275,6 +285,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
@@ -322,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
+file = "mods/sorted-enchantments.pw.toml"
+hash = "c3f3a348a681e6c28cec74b3bf7cfa056120d85f8be1c0803a81748ad16d85c2"
 metafile = true
 
 [[files]]
