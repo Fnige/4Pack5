@@ -5,6 +5,11 @@ file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
 
 [[files]]
+file = "config/openloader/data/no-surface-mineshafts.pw.toml"
+hash = "ccf6381198d942e4ea25d2f41d68c9540b2ba526b331379ac8addc26932dbd3b"
+metafile = true
+
+[[files]]
 file = "config/openloader/data/remove-water-and-lava-springs.pw.toml"
 hash = "98c06b2caa2f085c9cabcc17d42d3374b0c91e039f9bafb435a1600fb6094984"
 metafile = true
@@ -90,6 +95,11 @@ hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "5cd21013f8bfe3060e0d0b912105db3992b0c5ae943e247ceaf743ca4851e3e4"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -100,6 +110,11 @@ hash = "659136530505072d5c83a229e042da1d4ddf395d0f369cc1510f8ea03d3a9b65"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "ab11ea43bb8670094832a19e11f5f71b883c682c97b9f20236a992616d16799a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
@@ -107,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/cyanide.pw.toml"
 hash = "ae59ca8f783bbcac6cdb6949fea22910bcace2f4532f5f2a5385a591da1e1acf"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
+hash = "6da7992310256cd5af24f5e6409f07408204863191c0cfc006f5c04a7193b953"
 metafile = true
 
 [[files]]
@@ -195,6 +215,11 @@ hash = "80f64264e3f2e28d037c05168f0ad90363ebd1a452a603dae761833d398abcc1"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "8d2954e230da5baa467b2851827aed41e6c7544fd2ddbb581fa177efb2bc0ffb"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
@@ -220,6 +245,11 @@ hash = "45c55bdbbf2240dfa30cedb5cd437f5716ccf09a707dcdffbe7f39af3e19ff7f"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "47b9410704efc0f8cb3b34a87d7019a013850775afe464e887b19ecf45eac0d3"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
 metafile = true
@@ -240,6 +270,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
+metafile = true
+
+[[files]]
 file = "mods/no-more-ruined-portals.pw.toml"
 hash = "422e59ce6ade49c606a0b7a3237d8b484a0175dcdb672ead68b67fa5cfb5aee6"
 metafile = true
@@ -252,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
 metafile = true
 
 [[files]]
@@ -320,8 +360,18 @@ hash = "0b78a3e7d93a1325cfe21e12e6d3e3e2c2fb005d6c74c7a4b249b1a3da5e93a3"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "ddcbb04fb7653e7bf4f50aab98dc256ea68cd8f33b1aeda375f103f60503758d"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "1480f2d11e75313bc29fc22bea862cc3b04b55e38cb417bb735582fd259a1881"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f62af5ab636c96e8915bb896ce4092b14b0c3a94a1d89af33853af20b1877f9d"
 metafile = true
 
 [[files]]
@@ -342,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/sorted-enchantments.pw.toml"
 hash = "c3f3a348a681e6c28cec74b3bf7cfa056120d85f8be1c0803a81748ad16d85c2"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
