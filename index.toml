@@ -315,11 +315,6 @@ hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
-file = "mods/personality!.pw.toml"
-hash = "b53d0144878f1a9dd570ad3997770b2b9fc6a9578ab18131cddb421763fd2162"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
