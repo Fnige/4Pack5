@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/combatnouveau-server.toml"
+hash = "bb75e2d2bdf90fb26a03d227c4964bf0331c087f6f00874ccf37da4c9540cc71"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
@@ -31,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "d148616971b70f19c29643611f815fcf258eeb142e31ee81252ddea6cf9fc4b1"
 metafile = true
 
 [[files]]
@@ -111,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "79d6adc6ff8bfdd30494e4d31b5864025bffd13bd0735f37580060de5477f98e"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "2082be01a5a634d36b3141d1fa19ccbf0bf7fb2a4aa1dc726b6dfe26de0b091d"
 metafile = true
 
 [[files]]
@@ -279,8 +293,18 @@ hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "9a7118b1d0ae1239f880c4f7fb921d14f49ed04b780fb8d0d439f923c0b6e523"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "bcdf2b7b2e4648346526c576824ff02f6d519edf406f8fbcf6d6d73fc1de507d"
 metafile = true
 
 [[files]]
@@ -339,6 +363,11 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -389,6 +418,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sorted-enchantments.pw.toml"
+hash = "77e7596ceaf31a688ac602aa1cbc0feec5d56ecb15dd6f10993be1cc261ec4fa"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -404,6 +438,11 @@ hash = "f91215e903b1a2a168961c2a51660f9e7f9f80ed1bdd575566f08a01b8a643bd"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -411,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "e23a9d35dea90857ae5c89b8b07056f6f774b16a3a18dce0cb54fdd40886c1c9"
 metafile = true
 
 [[files]]
