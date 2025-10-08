@@ -19,6 +19,10 @@ hash = "fe0880621544dc3f6701db80c0f0e9190ddb536739948c4056767e9e39809fdc"
 metafile = true
 
 [[files]]
+file = "config/openloader/packs/remove-lava-and-water-springs.zip"
+hash = "ae0a6835ef01cd41c8641a714e684995f37129aa44c86be90d8fc2b948b8915f"
+
+[[files]]
 file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
 
