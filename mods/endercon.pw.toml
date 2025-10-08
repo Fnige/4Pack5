@@ -1,0 +1,13 @@
+name = "Endercon"
+filename = "endercon-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/RlofZZFv/endercon-2.4.jar"
+hash-format = "sha512"
+hash = "e31b36e9700f7683118f6431de719fbcb776991e884271a8a8a5c9aedc032072228d0ac42b3046c4ed8f5769b9ecfeff84ace03b84589e80c686fc127084ce17"
+
+[update]
+[update.modrinth]
+mod-id = "wr1BCv8H"
+version = "RlofZZFv"

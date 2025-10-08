@@ -1,0 +1,13 @@
+name = "No More Ruined Portals"
+filename = "No More Ruined Portals.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vf9nOP5y/versions/WxqhhADi/No%20More%20Ruined%20Portals.zip"
+hash-format = "sha512"
+hash = "5395441bdcc6786af3d4e3921dfb519518f8498c7f2a466c2d77fffeac3227d19d70d5cca225c84901088cd6568a01d934badee4d3f6556123471625594f76db"
+
+[update]
+[update.modrinth]
+mod-id = "Vf9nOP5y"
+version = "WxqhhADi"

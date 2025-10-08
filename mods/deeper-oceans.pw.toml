@@ -1,0 +1,13 @@
+name = "Deeper Oceans"
+filename = "deeper-oceans-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yqHsPROA/versions/jHxFj7QK/deeper-oceans-2.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "bb1aca9fdb67fc983b05765473ec4da4e9bd933809435e8deebd14f1cadcfa615951d386197c5726e415d2af03f12dc08e25edcf76000e9e18e23f783a5bc829"
+
+[update]
+[update.modrinth]
+mod-id = "yqHsPROA"
+version = "jHxFj7QK"

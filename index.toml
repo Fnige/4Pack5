@@ -1,12 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/options.json"
+hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
+
+[[files]]
+file = "config/openloader/packs/no-more-ruined-portals.pw.toml"
+hash = "1e5e80123889620fb4c66f022a1e335dbc97584645f26fc0ea45c88d3110cb20"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/no-surface-mineshafts.pw.toml"
+hash = "fe0880621544dc3f6701db80c0f0e9190ddb536739948c4056767e9e39809fdc"
+metafile = true
+
+[[files]]
 file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
 
 [[files]]
@@ -110,11 +129,6 @@ hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "94c4b42fa95a6368a4a47782549636f167b45396a4004a1d7357d25f93cd3ffc"
-metafile = true
-
-[[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
@@ -140,8 +154,18 @@ hash = "8136c505639b50713160f2634bc7d12c44a47e167a852e9745aa716ba8e44cc4"
 metafile = true
 
 [[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "25e2566c0691471796b8c8365c05936575e2ebc1879ec7cfa59e5f0f766e9731"
+metafile = true
+
+[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
+metafile = true
+
+[[files]]
+file = "mods/endercon.pw.toml"
+hash = "411b7bd2588931befe792fa7a9b99b130d64cd476b939e033eec29dacf66f539"
 metafile = true
 
 [[files]]
@@ -180,8 +204,14 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
-hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+file = "mods/figura.pw.toml"
+hash = "579b705ed1c0c87ec96689979db104cbae3f39910bfc5cd649ead1e3c4e81679"
+metafile = true
+
+[[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "ec1d4fcb65cae79ada4737d7620c5d10c19f5b465878fede836b10b8f757f86d"
+metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -194,8 +224,18 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-beta.pw.toml"
+hash = "1ad92ffac4c6bd88c6479464cc36fd4c61e3432a6a82039b95f13d96b6326e14"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "80f64264e3f2e28d037c05168f0ad90363ebd1a452a603dae761833d398abcc1"
 metafile = true
 
 [[files]]
@@ -224,6 +264,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
@@ -241,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
@@ -351,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "f91215e903b1a2a168961c2a51660f9e7f9f80ed1bdd575566f08a01b8a643bd"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
