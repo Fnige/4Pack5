@@ -27,6 +27,16 @@ file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -59,6 +69,16 @@ metafile = true
 [[files]]
 file = "mods/bbrb.pw.toml"
 hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
+hash = "72f795ef4f6d4d29b99cbefdf52387470f26b11e7dc71af2d63c5f799085c568"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "35cf9f23b436dd58b14455ce275e0e18c1c3208666d0f448161dc1eb626eaf2b"
 metafile = true
 
 [[files]]
@@ -162,6 +182,11 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/cyanide.pw.toml"
 hash = "08ab5ee502b94653263fdfea09b0c58958e9e6adffc45cb35f496cc5a0a6fb8d"
 metafile = true
@@ -179,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
@@ -277,6 +307,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "6afb60e7f6ba51730713b58d71445dc1e3e12f502bdce8099c8a3b2484b1e838"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -349,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]

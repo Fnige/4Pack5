@@ -1,0 +1,13 @@
+name = "Beltborne Lanterns"
+filename = "beltborne_lanterns-1.2.1-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NUFDZAKS/versions/eHAcx5AE/beltborne_lanterns-1.2.1-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5d6460be32d302bdf469630142777aa25ac1426beb77953cb339333334b5d88e998421e69a34f4fb7b5563dcc3c21538d4ebf85d990820dfc84f3a6cf7155bfa"
+
+[update]
+[update.modrinth]
+mod-id = "NUFDZAKS"
+version = "eHAcx5AE"
