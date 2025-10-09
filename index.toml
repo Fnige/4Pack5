@@ -9,6 +9,11 @@ file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
 [[files]]
+file = "config/openloader/packs/consistent-jungle-leaves.pw.toml"
+hash = "43b2cf9b63553cd0afe857293a5840ea3b4ef5ff2b99679763e882f460f796fc"
+metafile = true
+
+[[files]]
 file = "config/openloader/packs/no-more-ruined-portals.pw.toml"
 hash = "1e5e80123889620fb4c66f022a1e335dbc97584645f26fc0ea45c88d3110cb20"
 metafile = true
@@ -67,6 +72,11 @@ hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "62278b071518aca2e75d1cb25542c82cee2dd053df7d28afe6682ef9ca62ed0d"
+metafile = true
+
+[[files]]
 file = "mods/bbrb.pw.toml"
 hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
 metafile = true
@@ -112,6 +122,11 @@ hash = "fea72fc60fc9ff83090ede284a8fe65090cb2fed2fd4f697de5ebe6071ff5b41"
 metafile = true
 
 [[files]]
+file = "mods/chorus-fruit-drops-nearby.pw.toml"
+hash = "7c43368d113e61627d22a2581453b80d0ff21cf221a1b32b3a1bd05e717b181c"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -119,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "308ce6e292aaae5f74def7cebffdca789545a298eb04a4a00838a169a498d1c9"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
 metafile = true
 
 [[files]]
@@ -297,8 +317,18 @@ hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "f23906ae911c0eabcbb411c7f4a8e4880edbd52c4a6d22a4ae0ae56240083f90"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "6a9a422bdfaa616f3931c069d1e1d7b27c0b225ba54c61d160869d3c9c179b55"
 metafile = true
 
 [[files]]
@@ -422,8 +452,18 @@ hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
 metafile = true
 
 [[files]]
@@ -479,6 +519,16 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "f91215e903b1a2a168961c2a51660f9e7f9f80ed1bdd575566f08a01b8a643bd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
