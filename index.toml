@@ -112,13 +112,13 @@ hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
 metafile = true
 
 [[files]]
-file = "mods/cerulean-advancements.pw.toml"
-hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+file = "mods/cc-tweaked.pw.toml"
+hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "fea72fc60fc9ff83090ede284a8fe65090cb2fed2fd4f697de5ebe6071ff5b41"
+file = "mods/cerulean-advancements.pw.toml"
+hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
 metafile = true
 
 [[files]]
@@ -192,6 +192,11 @@ hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
 
 [[files]]
+file = "mods/create-bugfix-schematic-patch.pw.toml"
+hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
@@ -232,6 +237,11 @@ hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/endercon.pw.toml"
 hash = "411b7bd2588931befe792fa7a9b99b130d64cd476b939e033eec29dacf66f539"
 metafile = true
@@ -244,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "335d03833289860ab173c335449da59179f7d28bfcae5bbe2c70b4e5935a113f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
@@ -459,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/shorkie.pw.toml"
+hash = "f727aa3161d6018c65b962a1f32b8fc7827cf011b9b76bb6254c7688a5ac1178"
 metafile = true
 
 [[files]]
