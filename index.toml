@@ -32,6 +32,11 @@ file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0bcbbcbf939f82f90be11d6d647478f93d43d60d289d6b8ba8484ffb0f8a0f59"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
@@ -217,6 +227,11 @@ hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
+metafile = true
+
+[[files]]
 file = "mods/create-bugfix-schematic-patch.pw.toml"
 hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
 metafile = true
@@ -224,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/creeper-fireworks-mod.pw.toml"
+hash = "4c6336766e2b3f64c2d7a27b0cfb6eb0b4370b2dc44bf52bfe241b00c0844280"
 metafile = true
 
 [[files]]
@@ -252,6 +272,11 @@ hash = "25e2566c0691471796b8c8365c05936575e2ebc1879ec7cfa59e5f0f766e9731"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+metafile = true
+
+[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
 metafile = true
@@ -267,6 +292,11 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "6424e91859f327b6c7b27ec835ad2b00f81926e83116c78a098a95731c594889"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -279,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/endercon.pw.toml"
 hash = "411b7bd2588931befe792fa7a9b99b130d64cd476b939e033eec29dacf66f539"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
 
 [[files]]
@@ -359,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/hybrid-beta.pw.toml"
 hash = "1ad92ffac4c6bd88c6479464cc36fd4c61e3432a6a82039b95f13d96b6326e14"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
 
 [[files]]
@@ -457,6 +497,11 @@ hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
 
 [[files]]
+file = "mods/misctweaks.pw.toml"
+hash = "fa9746c86c8c248c2c9bcf3cc877747ecced23ee616ec023a69a3c5cfa211f5e"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "9a7118b1d0ae1239f880c4f7fb921d14f49ed04b780fb8d0d439f923c0b6e523"
 metafile = true
@@ -479,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/more-armor-trims.pw.toml"
 hash = "94f613e7b373c3225d2dbd9f6bfa2e1f51e413f5d4c891c5c675b68adf9a678a"
+metafile = true
+
+[[files]]
+file = "mods/more-sniffer-flowers.pw.toml"
+hash = "2b5c0e084ae95cf142f4b21c98b05ec4d14fcce06886b084690f6f57d0692c2e"
 metafile = true
 
 [[files]]
@@ -712,6 +762,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "cc348275818089145f5f5c28787c0ce77f84300c460376b436d550e6739cac7c"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
@@ -724,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
+metafile = true
+
+[[files]]
+file = "mods/trimmed.pw.toml"
+hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
 metafile = true
 
 [[files]]
