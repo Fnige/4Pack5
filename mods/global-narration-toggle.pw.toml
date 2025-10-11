@@ -1,0 +1,13 @@
+name = "Global Narration Toggle"
+filename = "globalnarrationtoggle-1.21.1-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UxJVewrJ/versions/1kYuKyAt/globalnarrationtoggle-1.21.1-1.4.jar"
+hash-format = "sha512"
+hash = "a11e05bcdf54242aa39e801971e765e18dedd569676daf7a9018ec65b3c0c2bead1b3db0a5c6f6568e959b2ce91e43bbdc55e3edc94896eca6f49c9624cb4be5"
+
+[update]
+[update.modrinth]
+mod-id = "UxJVewrJ"
+version = "1kYuKyAt"
