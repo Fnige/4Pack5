@@ -57,11 +57,6 @@ hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
 
 [[files]]
-file = "mods/anvil-restoration.pw.toml"
-hash = "28dd5f97415eaafc0197b7679439bbd668dff26b28805f226abb7f87047447ef"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -124,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
@@ -307,6 +307,21 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6424e91859f327b6c7b27ec835ad2b00f81926e83116c78a098a95731c594889"
 metafile = true
@@ -414,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
 hash = "b673341af68086d2e541451fa1a1165883c33ed423122bd5f5bbc9ea0348ab30"
+metafile = true
+
+[[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "d01e1e18bc56a20fd1b37a5716e3fa9cf78704176389865dcbac7c13d3b34770"
 metafile = true
 
 [[files]]
@@ -712,11 +732,6 @@ hash = "3a7245737f7656eaed519074fa68ae7fd54dead6ba374ccb26f8021c4a7f04fa"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a182489f5f19738fd9b93d796d9e660df95fa02273a3f55f70f36314222a40a2"
-metafile = true
-
-[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
 metafile = true
@@ -827,6 +842,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tiny-skeletons.pw.toml"
+hash = "be81b53e86e115ce028dce3f9327d973bb3355a19ea19dbf886b1506a8661ff9"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "cc348275818089145f5f5c28787c0ce77f84300c460376b436d550e6739cac7c"
 metafile = true
@@ -854,6 +874,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "36451170388b68c89ba69f5f2bd4fd283d1811a3d9b5e31281a424f9ca6f61a7"
 metafile = true
 
 [[files]]
