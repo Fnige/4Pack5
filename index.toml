@@ -262,6 +262,10 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats-3.0.2-patched.jar"
+hash = "5935f55c4f521aa5b1b2b744bff841df40087cebcbb25e355497d9d70e8ecc47"
+
+[[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
@@ -449,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
-metafile = true
-
-[[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "99043d37f4915f80d47aac0aa877d72a55280b29cac55c2e65c8a28c92b494c5"
 metafile = true
 
 [[files]]
