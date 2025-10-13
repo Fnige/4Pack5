@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
+hash = "d0af80a62f96d2ac0cdb344757673103c63704bd6786c0f31818b16a4194341e"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerulean-advancements.pw.toml"
-hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
@@ -618,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "bcdf2b7b2e4648346526c576824ff02f6d519edf406f8fbcf6d6d73fc1de507d"
-metafile = true
-
-[[files]]
-file = "mods/more-armor-trims.pw.toml"
-hash = "94f613e7b373c3225d2dbd9f6bfa2e1f51e413f5d4c891c5c675b68adf9a678a"
 metafile = true
 
 [[files]]
