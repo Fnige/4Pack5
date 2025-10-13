@@ -172,6 +172,11 @@ hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
+metafile = true
+
+[[files]]
 file = "mods/cerulean-advancements.pw.toml"
 hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/create-bugfix-schematic-patch.pw.toml"
 hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
+metafile = true
+
+[[files]]
+file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
+hash = "90ec6398119d5172402ad38373c23ce6a8d58bb8ed4986b35190cfe28ae22899"
 metafile = true
 
 [[files]]
@@ -493,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/hybrid-beta.pw.toml"
 hash = "1ad92ffac4c6bd88c6479464cc36fd4c61e3432a6a82039b95f13d96b6326e14"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "b87480679e8a340920cd02bc8113127a9039f35caf6361dd0e24f5190ea8b466"
 metafile = true
 
 [[files]]
