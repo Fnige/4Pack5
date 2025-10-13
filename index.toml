@@ -177,11 +177,6 @@ hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
 metafile = true
 
 [[files]]
-file = "mods/chorus-fruit-drops-nearby.pw.toml"
-hash = "7c43368d113e61627d22a2581453b80d0ff21cf221a1b32b3a1bd05e717b181c"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -463,11 +458,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
-metafile = true
-
-[[files]]
-file = "mods/global-narration-toggle.pw.toml"
-hash = "b8597aa67dd30f644348f93ea359a4383e56af2680b2fef5882235d8c52fc41e"
 metafile = true
 
 [[files]]
