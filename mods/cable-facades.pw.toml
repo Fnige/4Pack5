@@ -1,0 +1,13 @@
+name = "Cable Facades"
+filename = "cable_facades-1.21.1-NeoForge-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twipgzWx/versions/sdKXT9b7/cable_facades-1.21.1-NeoForge-1.6.1.jar"
+hash-format = "sha512"
+hash = "b3a4de58f4cd1c268517be05730d1015000e25a67427dfcaf6e2cd627d80ec1a3f87d4527eedb8ed6cad1f718a38ac45b518db86726a7dd586d150fc87579d84"
+
+[update]
+[update.modrinth]
+mod-id = "twipgzWx"
+version = "sdKXT9b7"

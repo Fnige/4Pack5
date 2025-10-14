@@ -5,6 +5,10 @@ file = "config/combatnouveau-server.toml"
 hash = "bb75e2d2bdf90fb26a03d227c4964bf0331c087f6f00874ccf37da4c9540cc71"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "56201d1b5ae1871172b0edf180266deb0100e2c0794f44cdc62c33fffb3a11cb"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
@@ -162,6 +166,11 @@ hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "4474de6346f9bedd14de109f463c5a72696df9c9d5a3a85d84f366dba1db14dd"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "d0af80a62f96d2ac0cdb344757673103c63704bd6786c0f31818b16a4194341e"
 metafile = true
@@ -292,6 +301,16 @@ metafile = true
 [[files]]
 file = "mods/create-bugfix-schematic-patch.pw.toml"
 hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
