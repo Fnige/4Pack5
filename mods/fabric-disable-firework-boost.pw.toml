@@ -1,0 +1,13 @@
+name = "Fabric Disable Firework Boost"
+filename = "fabric-disable-firework-boost-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "696936f4a01808265ae73caac65ecc0e566f0905"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4605301
+project-id = 784673

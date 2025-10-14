@@ -217,6 +217,10 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cmpackagepipebomb-1.0.1-patched.jar"
+hash = "b8b38b66717e4012c45172707b3d720ea95638181521c6d16f51912189a9635a"
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "8027f1e38b07a509691bccf2a8c2d35aa069530eb1ebb11adbaed50319c05f44"
 metafile = true
@@ -288,11 +292,6 @@ metafile = true
 [[files]]
 file = "mods/create-bugfix-schematic-patch.pw.toml"
 hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
-metafile = true
-
-[[files]]
-file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
-hash = "90ec6398119d5172402ad38373c23ce6a8d58bb8ed4986b35190cfe28ae22899"
 metafile = true
 
 [[files]]
@@ -418,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "5916832d06322a7a54d87e1fe47da5009daed0213510573d9c311c5ceefa9937"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-firework-boost.pw.toml"
+hash = "28dd51248e3f7c18893febb9a0d6854c2732ce7cf5a33a98855939a65e2c4a0f"
 metafile = true
 
 [[files]]
@@ -558,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/keybind-bundles.pw.toml"
 hash = "47a1cf263aac564936208e757ee31b7b8a9336afb973466202ab7945026bea85"
+metafile = true
+
+[[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "70ee02ef0ef73bdd6767e3e074aca2a7793041b2ece6b8f0d6a166d34d439419"
 metafile = true
 
 [[files]]
@@ -728,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "73946fc762c8c03bce86fb420893838136413b36fcd49da3a15949de3130456d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
