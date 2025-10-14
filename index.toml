@@ -116,11 +116,6 @@ hash = "62278b071518aca2e75d1cb25542c82cee2dd053df7d28afe6682ef9ca62ed0d"
 metafile = true
 
 [[files]]
-file = "mods/bbrb.pw.toml"
-hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
-metafile = true
-
-[[files]]
 file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
 hash = "72f795ef4f6d4d29b99cbefdf52387470f26b11e7dc71af2d63c5f799085c568"
 metafile = true
@@ -183,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
-metafile = true
-
-[[files]]
-file = "mods/cerulean-advancements.pw.toml"
-hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
@@ -304,8 +294,23 @@ hash = "92d3f0c7789eb5102f5cab64ce5b0ff04b45789c4be4254a408e051be6c48e13"
 metafile = true
 
 [[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
