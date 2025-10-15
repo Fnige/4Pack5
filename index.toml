@@ -309,6 +309,11 @@ hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "0c4af27d901df3147a91a7432679d5aac61bc9eeaccd734a73d2f31096873ade"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
 metafile = true
@@ -346,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/create-fishery-industry.pw.toml"
 hash = "b811e758ca5dd5b0ad908e3e56e10cdf048863f7cf0b6ebd8098e03fdfcf31c5"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "037a176211b34d40b91a54ea997875d7732363ef2ba1745ea48af398e8c259b7"
 metafile = true
 
 [[files]]
