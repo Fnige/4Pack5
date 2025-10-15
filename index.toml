@@ -116,6 +116,11 @@ hash = "62278b071518aca2e75d1cb25542c82cee2dd053df7d28afe6682ef9ca62ed0d"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
 hash = "72f795ef4f6d4d29b99cbefdf52387470f26b11e7dc71af2d63c5f799085c568"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "66d6a153c156b11e472bb4c226bb3a88b519cac4cf306904f6308965b8fe5333"
 metafile = true
 
 [[files]]
@@ -299,8 +309,23 @@ hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
 metafile = true
 
 [[files]]
@@ -309,8 +334,28 @@ hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "72284e0c173926408a2d7aa67fd559e777483d4545f9f99a5f8af5971f14aa0b"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "79199cff90909b0dece144138419fa205c3723d606ef0d18c2981e2f2b598d84"
+metafile = true
+
+[[files]]
+file = "mods/create-fishery-industry.pw.toml"
+hash = "b811e758ca5dd5b0ad908e3e56e10cdf048863f7cf0b6ebd8098e03fdfcf31c5"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-synthetic-pressure.pw.toml"
+hash = "136e981062a886b9efac803aa47b96d7da4b6802141d3a06fd7b89240696cfb4"
 metafile = true
 
 [[files]]
@@ -609,6 +654,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1bdd0f3aa5d3a10382aca267cee6acc61bd0f3834122dba4534db933f956691b"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6afb60e7f6ba51730713b58d71445dc1e3e12f502bdce8099c8a3b2484b1e838"
 metafile = true
@@ -819,6 +869,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
 metafile = true
@@ -871,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
 hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "f2eabf4bda49f0ef6bd0dcdf24bb1551d1bc0b20d2ab486ebec97048473853b1"
 metafile = true
 
 [[files]]

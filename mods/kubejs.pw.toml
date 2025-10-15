@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-neoforge-2101.7.2-build.270.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/FPvpwy2p/kubejs-neoforge-2101.7.2-build.270.jar"
+hash-format = "sha512"
+hash = "bd82ddc1860b6ac6f9f94191aad5125e93d0e8d70ee9a2bf5b49cacd150ada8bde0f1ae8553a0c37beeaa8a23d4619a4da61d8cb5ec980474aae6b30e8480c24"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "FPvpwy2p"
