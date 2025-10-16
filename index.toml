@@ -191,6 +191,11 @@ hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "76b420800e33a55559a680802902edbf11e26a2c8420b3c1cbf63bdf920d8db3"
+metafile = true
+
+[[files]]
 file = "mods/chimes.pw.toml"
 hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
 metafile = true
@@ -376,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "36fe638633083667b1fd66b53fd1e0d76467dec3a58062fede8207350bd6771d"
 metafile = true
 
 [[files]]
@@ -1131,6 +1141,16 @@ metafile = true
 [[files]]
 file = "mods/wandering-trader-may-leave.pw.toml"
 hash = "e83f88eac056b856679eb51612f20f828711ff2c3dcfe90ea3a33116144260ba"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "08ea71e80bb32c950460404dc33976384d7a6b17603ebcb7a3e3eb1343cb307c"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2748f1e5d253d178c51c7df6897af4744a5db77bd6507d6abcc257187f2c7109"
 metafile = true
 
 [[files]]
