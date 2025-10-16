@@ -270,11 +270,6 @@ hash = "e0033e53c92c8238e66b2c1e932eab8eda21b21e65ffc8beb909dbfd073f618e"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "376b22883dd4642dee7bf1e727440cb01d87d72293952a1ddf0c2f1c25fa7863"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
@@ -1146,4 +1141,19 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "e5f49f7a3b49f7a03f667c5c5ca43826e7abbfcc0a9fe2499af89b461fac0819"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "0e27eea95511f0914b8db1e75cfde84ca748251bc5d24c42dd9af38abd77afdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
