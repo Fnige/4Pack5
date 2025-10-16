@@ -289,6 +289,11 @@ file = "mods/copycats-3.0.2-patched.jar"
 hash = "5935f55c4f521aa5b1b2b744bff841df40087cebcbb25e355497d9d70e8ecc47"
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "a7216dad68fe8cabfbdcced66ad94e1da20d23fe531e03022f877ffead92df50"
+metafile = true
+
+[[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
@@ -421,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "92e0482b762a463382275b513b9b41815dac881c4d010e09e2c04081468b45ff"
 metafile = true
 
 [[files]]
@@ -709,6 +719,11 @@ hash = "fa9746c86c8c248c2c9bcf3cc877747ecced23ee616ec023a69a3c5cfa211f5e"
 metafile = true
 
 [[files]]
+file = "mods/mmlib.pw.toml"
+hash = "e632217ac80f7b161fcf25af87bffd51899aeb1d84ea3c6fc6b6f47101877db6"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "9a7118b1d0ae1239f880c4f7fb921d14f49ed04b780fb8d0d439f923c0b6e523"
 metafile = true
@@ -884,6 +899,11 @@ hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "5bfdc2a3aa53eefc0a380b0e682ade53431b0bdee84b0d3e005a44f5040eeec9"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
 metafile = true
@@ -936,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
 hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
+metafile = true
+
+[[files]]
+file = "mods/skys-flowers.pw.toml"
+hash = "9cc892e4e3fe1364dab7d749fbce43656475e2453850e3fab81e8486c380d7cf"
 metafile = true
 
 [[files]]
@@ -1041,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "b58d586a0560ceab0ab47d7e3e8b738cf2bec7c5df5ed8f94e95326c61a8b792"
+metafile = true
+
+[[files]]
+file = "mods/sweety-garden.pw.toml"
+hash = "e2893ed7fe934d545b80c54da0cdc24bc887cb72ba78445c197738376af165eb"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Sweety's Garden"
+filename = "sweety_garden-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QIuqlb7g/versions/ngY0kMdT/sweety_garden-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7c4ad408c98ba86decaadaf0680d6106d99c4a698745c78cdcec8dd8e9a3391b5c611796c5d0a73ffc1e02a87a65c44b77782926ef9f12b8ae593894b15f7706"
+
+[update]
+[update.modrinth]
+mod-id = "QIuqlb7g"
+version = "ngY0kMdT"

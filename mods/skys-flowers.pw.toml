@@ -1,0 +1,13 @@
+name = "Sky's Flowers"
+filename = "Sky's Flowers 1.5 NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V2QjH9n3/versions/ko3QaVlM/Sky%27s%20Flowers%201.5%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "5c07ef3c8f82a40b971d8b42f7cebd93a8b8387b76f9d5f6d2a8c2e6465386a2291e7e9674ace7e18915654b1f186fffa4384869c8238acb5f3794a7ef161630"
+
+[update]
+[update.modrinth]
+mod-id = "V2QjH9n3"
+version = "ko3QaVlM"
