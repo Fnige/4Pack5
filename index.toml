@@ -569,6 +569,11 @@ hash = "aebd52a03651bc4408db5865f314d3620ee27b67c5fe1d8baa560d6a01f255f1"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
 metafile = true
@@ -649,6 +654,11 @@ hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "cc903c56f854019dc420ab9a088e1a3a328e7839291aafae038f37005e59988e"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
@@ -711,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "7d3dd71f0a173bcdae1016ffae45dd0bfb5d74655c459c73437d88ab76b6951c"
 metafile = true
 
 [[files]]
