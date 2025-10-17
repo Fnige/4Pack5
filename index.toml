@@ -51,6 +51,11 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "4403b61890429bcd27cf3f59b5ec2c76bdd31aeb88ff76398262899189cf38b4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
@@ -1111,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "cc348275818089145f5f5c28787c0ce77f84300c460376b436d550e6739cac7c"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "b5be069a2fae0df4cf4d032a8332c6011029f9ab9c3b9532d209747d44961dee"
 metafile = true
 
 [[files]]
