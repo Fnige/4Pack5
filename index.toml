@@ -1159,16 +1159,6 @@ hash = "e83f88eac056b856679eb51612f20f828711ff2c3dcfe90ea3a33116144260ba"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "08ea71e80bb32c950460404dc33976384d7a6b17603ebcb7a3e3eb1343cb307c"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "55c198688de4daacf8950fdfe94043661062afd3091c724bb212d2eb4424ce3c"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
