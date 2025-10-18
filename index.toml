@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "1ca8dd7779a31fe5433996511686d305505aa9799e405164334dfcc55be65cad"
+hash = "d0fdd251f5c112c6323b9784bc8b1e82c8a77ad270afc505dc69e62a934460a6"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-harvester.pw.toml"
-hash = "e48323d394418af426fa5bf31910e9a182734a6350a4f1c521bc4cb2733be4db"
+hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
