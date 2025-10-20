@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+hash = "d5b17bff584c742e4cff6c2f64d3c0abaeae97abf5af69003ab6234809e81873"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+hash = "c0d4f6b100550c39dac23e5f2f2a71457b5cfadfc745d6d2e8af1ae2d8994d56"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
+hash = "059ed34586aa64d63eea357fc5cd770c9cccdbc0939c92c541011ba8fb177b54"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "335d03833289860ab173c335449da59179f7d28bfcae5bbe2c70b4e5935a113f"
+hash = "47f72e49a90873412020b8e691f626abd1cdd99dc69f2721d799f348a64fcca7"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "440b1febdf2f448608b08208bea0e3c412c2445fb2c695ad63ffa9badc0bcb0a"
+hash = "1221663ef6e0fe65ea12ba6377345e26676edabcd59934f4e1c60368cd983cdb"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/held-item-tooltips.pw.toml"
-hash = "d01e1e18bc56a20fd1b37a5716e3fa9cf78704176389865dcbac7c13d3b34770"
+hash = "b8c04f75bda35d0454af74b21d6a15091ec15b409279bfd121f1a888b9afe3b5"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-bundles.pw.toml"
-hash = "47a1cf263aac564936208e757ee31b7b8a9336afb973466202ab7945026bea85"
+hash = "f923c690eaaebb7bc3a2c71097d46c75151f5c65291be78b0c7b824d543c207f"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "0032f92bb3c84fea3153e0febf14c90e1c89735581daf8f3fe238b66f12bbae3"
+hash = "1a8f447a7bddd69e62bc63718c9dc9a3a46fb0ba853880b8a1502d59998b7df0"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
+hash = "a3476615cc86fe659e44246a998c3708ea0a56ac578804603c2119c237ef1f61"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+hash = "df0eef7f8bfbbd14615ffd23c176769509a949bf5b850c5633c3d7e8f3992ae6"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-skies.pw.toml"
-hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+hash = "f3967a58d1c82b4eedebf3f8e2e3a83bb0a3783c05e95531ff4b1484e1d5546c"
 metafile = true
 
 [[files]]
