@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "a4f7772cc1edbcfff24606b19845680eca8b95bb405caf1e110b42e2e918019f"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "d486fb0f8fcff4f5f8fdf9fecd145ca664f342a3f0510cf0944afdf0d2a8ec0c"
 
@@ -480,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/create-fishery-industry.pw.toml"
 hash = "b811e758ca5dd5b0ad908e3e56e10cdf048863f7cf0b6ebd8098e03fdfcf31c5"
+metafile = true
+
+[[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "b9beeab3fc0be6b37b7757cb7855dc0a9fd0177d6e97079552da8260c23af589"
 metafile = true
 
 [[files]]
