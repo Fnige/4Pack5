@@ -11,3 +11,8 @@ hash = "a8c11f36074a1fe928e510b63856ed3c46202a3e30615093474609298809dba22a0a7f8d
 [update.modrinth]
 mod-id = "UEtTD3gP"
 version = "xDYKoTCG"
+
+[option]
+optional = true
+default = true
+description = "Makes a noise when the game has loaded in."

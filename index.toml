@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+hash = "21e87955341d3d0657db5f530402f5006da44756f7a168c6d6264ee87d63041d"
 metafile = true
 
 [[files]]
@@ -303,12 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "308ce6e292aaae5f74def7cebffdca789545a298eb04a4a00838a169a498d1c9"
-metafile = true
-
-[[files]]
-file = "mods/clickthrough+.pw.toml"
-hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
+hash = "cac5dea619484fdf86d72eee30923e48a4389740df24229cefc861ebfbff72ee"
 metafile = true
 
 [[files]]
@@ -442,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
+metafile = true
+
+[[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
@@ -685,6 +685,11 @@ hash = "aebd52a03651bc4408db5865f314d3620ee27b67c5fe1d8baa560d6a01f255f1"
 metafile = true
 
 [[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
 metafile = true
@@ -817,11 +822,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "1bdd0f3aa5d3a10382aca267cee6acc61bd0f3834122dba4534db933f956691b"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "6afb60e7f6ba51730713b58d71445dc1e3e12f502bdce8099c8a3b2484b1e838"
 metafile = true
 
 [[files]]
@@ -1000,11 +1000,6 @@ hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
-file = "mods/overflowing-bars.pw.toml"
-hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1167,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "82aedef3c457ffe51e27a4153aaf73ef7c073b87059a021495af487e41ed2e99"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]

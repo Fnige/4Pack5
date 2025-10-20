@@ -11,3 +11,8 @@ hash = "315129fd67381cfc799aa51fcd6ee511fdb6959a8b60f33afc9ea48c7cc13c689d6d56fc
 [update.modrinth]
 mod-id = "lO3s8hjs"
 version = "GiR8tHNc"
+
+[option]
+optional = true
+default = true
+description = "Brings bedrock-like briding over to java. Makes briding easier and has a key to enable/disable it, but its optional if you dont plan to ever use it."

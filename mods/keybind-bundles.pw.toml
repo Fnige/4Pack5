@@ -11,3 +11,8 @@ hash = "b3e210cba5f761922fa0cb2e426587447f29c0090a6a5df9003dfc7d5ed6889aeb855419
 [update.modrinth]
 mod-id = "qs2zRREk"
 version = "29ZMr3Xd"
+
+[option]
+optional = true
+default = true
+description = "Allows you to have multiple keys on a single keybind, through an action wheel of sorts. \n Note: some keybinds might not work properly."

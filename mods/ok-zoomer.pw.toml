@@ -11,3 +11,8 @@ hash = "43428c76af367b5f741ec0f65f6a4c0f44c38edf845bd162561a0a787b3d8399010336ec
 [update.modrinth]
 mod-id = "aXf2OSFU"
 version = "9r90qGm7"
+
+[option]
+optional = true
+default = true
+description = "In case you want a different zoom mod. (Or none, I wont judge)"

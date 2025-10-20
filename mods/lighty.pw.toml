@@ -11,3 +11,8 @@ hash = "0d6637b3d37031b0cfca95358be406de1b6dd06c9ff22d62efd139e08d7a524cfa6392a6
 [update.modrinth]
 mod-id = "yjvKidNM"
 version = "Ua5CgydL"
+
+[option]
+optional = true
+default = true
+description = "Light overlay mod. Optional in case you dont want it or want a different one."

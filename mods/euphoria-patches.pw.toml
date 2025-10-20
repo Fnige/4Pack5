@@ -11,3 +11,8 @@ hash = "6c802e34fe8e1bf0a789dbd62d059971578e7d194d1142039b82f72a29e9ac7561007a89
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "XRFbbGvQ"
+
+[option]
+optional = true
+default = false
+description = "Very nice if you use complementary shaders, very annoying if you dont."

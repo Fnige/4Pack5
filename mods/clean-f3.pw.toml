@@ -11,3 +11,8 @@ hash = "7242610aaf2d03ae4b08d58f0248b70e7cc413032cdbede2668888f54be7460d778b769e
 [update.modrinth]
 mod-id = "5lvjfaRs"
 version = "UEknbJIs"
+
+[option]
+optional = true
+default = true
+description = "Cleans up the debug menu a lot."

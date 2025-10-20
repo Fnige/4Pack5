@@ -11,3 +11,8 @@ hash = "5514def7741ae61517c4b678294b2672c767c3bbe15f4beb3dfb60761a3bf367ed480136
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "P14vqscU"
+
+[option]
+optional = true
+default = true
+description = "LOD Rendering mod. Very helpful for increasing render distance. Eats RAM for breakfast though."

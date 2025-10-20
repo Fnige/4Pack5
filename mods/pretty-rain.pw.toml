@@ -11,3 +11,8 @@ hash = "686d25d07f6ada4454d37a535d54a6f28efc252142d93e29b699ad7eb54f0499a7b8ba0f
 [update.modrinth]
 mod-id = "IhZuHxkl"
 version = "CYizuwV6"
+
+[option]
+optional = true
+default = true
+description = "For if you don't like this style of rain."
