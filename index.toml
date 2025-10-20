@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "d486fb0f8fcff4f5f8fdf9fecd145ca664f342a3f0510cf0944afdf0d2a8ec0c"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/endrem.json"
+hash = "c3da07e188a4b2a15516313bd96d4d9f515c8e2216b28ae436ad732457123130"
+
+[[files]]
 file = "config/combatnouveau-server.toml"
 hash = "bb75e2d2bdf90fb26a03d227c4964bf0331c087f6f00874ccf37da4c9540cc71"
 
@@ -89,7 +97,7 @@ hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "aeb55934bd57f381095af8d74624f4922a4fb28e1eb40402c2a3e8b869c085a6"
+hash = "185ea39246ee2e0cfffda7ee04b487444a0141c4d820362e3a974e5601888553"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"
@@ -164,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "090ac3ca1096ca058c5991373bb3e8417ef350cfdbab39728a2b0f20c7491155"
 metafile = true
 
 [[files]]
