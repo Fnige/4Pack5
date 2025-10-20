@@ -15,4 +15,4 @@ version = "29ZMr3Xd"
 [option]
 optional = true
 default = true
-description = "Allows you to have multiple keys on a single keybind, through an action wheel of sorts. \n Note: some keybinds might not work properly."
+description = "Allows you to have multiple keys on a single keybind, through an action wheel of sorts.\n\nNote: some keybinds might not work properly."

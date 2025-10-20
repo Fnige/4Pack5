@@ -182,6 +182,11 @@ hash = "d148616971b70f19c29643611f815fcf258eeb142e31ee81252ddea6cf9fc4b1"
 metafile = true
 
 [[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "c2c827d86c4612b3530a31dfd0e0aea7c99a7ff49522050383c21cf1030f6fa4"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
@@ -248,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "21e87955341d3d0657db5f530402f5006da44756f7a168c6d6264ee87d63041d"
+hash = "a4d15d83a24ce3e42fe6a872c9a98400af3d8cb7a7f8a1561120841e1b293929"
 metafile = true
 
 [[files]]
@@ -506,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "d5b17bff584c742e4cff6c2f64d3c0abaeae97abf5af69003ab6234809e81873"
+hash = "99d9ca915b00dfcc6a2c83732d589cb34ed479b8d3779bf9ccfdc92d72f98c23"
 metafile = true
 
 [[files]]
@@ -796,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-bundles.pw.toml"
-hash = "f923c690eaaebb7bc3a2c71097d46c75151f5c65291be78b0c7b824d543c207f"
+hash = "0f5b61f8dfa6d844af4e46617908509fe1c04d0334b3e0329a78c27145086e18"
 metafile = true
 
 [[files]]

@@ -15,4 +15,4 @@ version = "epixUL1j"
 [option]
 optional = true
 default = true
-description = "Adds support for borderless fullscreen, optional in case you dont want it."
+description = "Adds support for borderless fullscreen."
