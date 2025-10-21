@@ -62,17 +62,17 @@ hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
 [[files]]
 file = "config/openloader/packs/consistent-jungle-leaves.pw.toml"
-hash = "659136530505072d5c83a229e042da1d4ddf395d0f369cc1510f8ea03d3a9b65"
+hash = "43b2cf9b63553cd0afe857293a5840ea3b4ef5ff2b99679763e882f460f796fc"
 metafile = true
 
 [[files]]
 file = "config/openloader/packs/no-more-ruined-portals.pw.toml"
-hash = "422e59ce6ade49c606a0b7a3237d8b484a0175dcdb672ead68b67fa5cfb5aee6"
+hash = "1e5e80123889620fb4c66f022a1e335dbc97584645f26fc0ea45c88d3110cb20"
 metafile = true
 
 [[files]]
 file = "config/openloader/packs/no-surface-mineshafts.pw.toml"
-hash = "1660b8cfe8075d6695d4f97a2ac1110428c24e48d7bbceb635cacba80f8c32fc"
+hash = "fe0880621544dc3f6701db80c0f0e9190ddb536739948c4056767e9e39809fdc"
 metafile = true
 
 [[files]]
