@@ -10,7 +10,7 @@ min_hitbox_size = true
 upwards_knockback = true
 #Health regenerates every 2 seconds, which requires more than 6 food points. Also food points will be directly consumed when healing. Surplus saturation does not yield quick health regeneration.
 #Default Value: false
-balanced_food_mechanics = false
+balanced_food_mechanics = true
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 #Default Value: true
 critical_hits_while_sprinting = true
@@ -60,7 +60,7 @@ no_projectile_immunity = true
 	throwables_delay = true
 	#Eating and drinking both are interrupted if the player is damaged.
 	#Default Value: true
-	eating_interruption = true
+	eating_interruption = false
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.
@@ -71,7 +71,7 @@ no_projectile_immunity = true
 	min_attack_strength = 1.0
 	#Holding down the attack button keeps attacking continuously. No more spam clicking required.
 	#Default Value: false
-	hold_attack_button = false
+	hold_attack_button = true
 	#Delay in ticks between attacks when holding the attack button is enabled.
 	#This basically also puts a cap on the max spam clicking speed.
 	#Default Value: 5
@@ -83,7 +83,7 @@ no_projectile_immunity = true
 	fast_switching = true
 	#Melee attacks that don't hit a target won't trigger the attack cooldown.
 	#Default Value: false
-	retain_energy_on_miss = false
+	retain_energy_on_miss = true
 
 [sweeping]
 	#Is the sweeping edge enchantment required to perform a sweep attack.

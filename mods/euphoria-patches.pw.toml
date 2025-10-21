@@ -1,18 +1,17 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-1.7.0-r5.6-neoforge.jar"
+filename = "EuphoriaPatcher-1.7.3-r5.6.1-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/XRFbbGvQ/EuphoriaPatcher-1.7.0-r5.6-neoforge.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/xZEHDOil/EuphoriaPatcher-1.7.3-r5.6.1-neoforge.jar"
 hash-format = "sha512"
-hash = "6c802e34fe8e1bf0a789dbd62d059971578e7d194d1142039b82f72a29e9ac7561007a891c6a91fbfc7e66f0d71a9c221838be2144556ea222241eba10a37f61"
+hash = "a50ffc90a180aab19dd4513667c438b877d4f05798fe433345a1381039d1e61def50b27757297bf56c8a36bf860eb510604f60dc8f90a27833d5adc632dff60f"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "XRFbbGvQ"
+version = "xZEHDOil"
 
 [option]
 optional = true
-default = false
 description = "Very nice if you use complementary shaders, very annoying if you dont."
