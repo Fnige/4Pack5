@@ -21,10 +21,7 @@ ServerEvents.recipes(event => {
 					]
 				})
 			}
-			
 		}
-
-
 	}
 
 	oxidising(

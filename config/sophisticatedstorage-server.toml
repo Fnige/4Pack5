@@ -18,7 +18,7 @@
 		#Number of inventory slots in the storage
 		# Default: 27
 		# Range: 1 ~ 180
-		inventorySlotCount = 18
+		inventorySlotCount = 27
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -29,7 +29,7 @@
 		#Number of inventory slots in the storage
 		# Default: 45
 		# Range: 1 ~ 180
-		inventorySlotCount = 27
+		inventorySlotCount = 36
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -40,7 +40,7 @@
 		#Number of inventory slots in the storage
 		# Default: 54
 		# Range: 1 ~ 180
-		inventorySlotCount = 36
+		inventorySlotCount = 45
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -51,7 +51,7 @@
 		#Number of inventory slots in the storage
 		# Default: 81
 		# Range: 1 ~ 180
-		inventorySlotCount = 45
+		inventorySlotCount = 54
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -62,7 +62,7 @@
 		#Number of inventory slots in the storage
 		# Default: 108
 		# Range: 1 ~ 180
-		inventorySlotCount = 54
+		inventorySlotCount = 63
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -73,7 +73,7 @@
 		#Number of inventory slots in the storage
 		# Default: 132
 		# Range: 1 ~ 180
-		inventorySlotCount = 63
+		inventorySlotCount = 72
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10
@@ -84,7 +84,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 32
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 23
+		baseSlotLimitMultiplier = 34
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -95,7 +95,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 53
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 34
+		baseSlotLimitMultiplier = 45
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -106,7 +106,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 64
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 45
+		baseSlotLimitMultiplier = 57
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -117,7 +117,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 96
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 56
+		baseSlotLimitMultiplier = 68
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -128,7 +128,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 128
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 68
+		baseSlotLimitMultiplier = 79
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -139,7 +139,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 160
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 79
+		baseSlotLimitMultiplier = 90
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10
@@ -150,7 +150,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 16
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 11
+		baseSlotLimitMultiplier = 17
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -161,7 +161,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 27
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 17
+		baseSlotLimitMultiplier = 23
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -172,7 +172,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 32
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 23
+		baseSlotLimitMultiplier = 28
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -183,7 +183,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 48
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 28
+		baseSlotLimitMultiplier = 34
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -194,7 +194,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 64
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 34
+		baseSlotLimitMultiplier = 39
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -205,7 +205,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 80
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 39
+		baseSlotLimitMultiplier = 45
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10
@@ -216,7 +216,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 10
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 8
+		baseSlotLimitMultiplier = 11
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -227,7 +227,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 17
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 11
+		baseSlotLimitMultiplier = 15
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -238,7 +238,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 20
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 15
+		baseSlotLimitMultiplier = 19
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -249,7 +249,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 30
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 18
+		baseSlotLimitMultiplier = 23
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -260,7 +260,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 40
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 22
+		baseSlotLimitMultiplier = 26
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -271,7 +271,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 50
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 26
+		baseSlotLimitMultiplier = 30
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10
@@ -282,7 +282,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 8
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 5
+		baseSlotLimitMultiplier = 8
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -293,7 +293,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 13
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 9
+		baseSlotLimitMultiplier = 11
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -304,7 +304,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 16
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 11
+		baseSlotLimitMultiplier = 14
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -315,7 +315,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 24
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 14
+		baseSlotLimitMultiplier = 17
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -326,7 +326,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 32
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 17
+		baseSlotLimitMultiplier = 20
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -337,7 +337,7 @@
 		#Multiplier that's used to calculate base slot limit
 		# Default: 40
 		# Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 20
+		baseSlotLimitMultiplier = 23
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10

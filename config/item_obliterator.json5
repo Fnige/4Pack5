@@ -16,9 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item",
-	 "sophisticatedbackpacks:stack_upgrade_omega_tier",
-	 "sophisticatedstorage:stack_upgrade_omega_tier"
+    "examplemod:example_item"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

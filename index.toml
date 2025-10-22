@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "56201d1b5ae1871172b0edf180266deb0100e2c0794f44cdc62c33fffb3a11cb"
+hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -101,11 +101,11 @@ hash = "0d860001f06c6bf7eac6b48eacb8ef1670776c344acccdea75ce14c4feac51ae"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "c01b2f51c944726208810c4afcaf5bf7dc9fa90c19318612e2e74881aacd5f0b"
+hash = "6b83a8cecc4a790401af6805681d1a07f0244a7dd03f4defbc15f39b3f205ef1"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
-hash = "6f4d6979aa0b22e504584dc0368163a4c7b3e26e7f3fdcf165344dcb098d54e1"
+hash = "9987d012e26e1b34e1d4d576ef1deb9d409891e7b43ecca3994040dff57ea12a"
 
 [[files]]
 file = "configureddefaults/README.md"
@@ -201,7 +201,11 @@ hash = "185ea39246ee2e0cfffda7ee04b487444a0141c4d820362e3a974e5601888553"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"
-hash = "979768a7f07aead972c7eb968a0ab2b19e07435385039df5a14ad15b9924a50c"
+hash = "a84b0825f61bb0694da0cd0780f4c5b83582e75b6fde2cece0177e8fc7a5c898"
+
+[[files]]
+file = "kubejs/server_scripts/sophisticated.js"
+hash = "bdbdc1eec64bdf7de319dedcee45924b593c97c3725e176b53fc77865edd2c23"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
