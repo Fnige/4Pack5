@@ -80,8 +80,32 @@ file = "config/openloader/packs/remove-lava-and-water-springs.zip"
 hash = "ae0a6835ef01cd41c8641a714e684995f37129aa44c86be90d8fc2b948b8915f"
 
 [[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
 file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
+
+[[files]]
+file = "config/sliceanddice-common.toml"
+hash = "f4a4b1292b3ecded07725db6ac248659c3706c092ba84b0edf0b8723b7677b9d"
+
+[[files]]
+file = "config/someassemblyrequired-server.toml"
+hash = "1f4c50a9ef0f94499472fadd560df814e19de552e81a6bc1d50dd4329bcd9308"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "0d860001f06c6bf7eac6b48eacb8ef1670776c344acccdea75ce14c4feac51ae"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "c01b2f51c944726208810c4afcaf5bf7dc9fa90c19318612e2e74881aacd5f0b"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+hash = "6f4d6979aa0b22e504584dc0368163a4c7b3e26e7f3fdcf165344dcb098d54e1"
 
 [[files]]
 file = "configureddefaults/README.md"
@@ -98,6 +122,26 @@ hash = "8341af0483349a57ac505aabe3fd315ff43023353cd5e4a097a39748f7111d5e"
 [[files]]
 file = "configureddefaults/config/euphoria_patcher.properties"
 hash = "b1f392d56c527e657c9b37eaf0fc6967f8c95c167c3e925fcf4518bdd4dd96af"
+
+[[files]]
+file = "configureddefaults/config/figura.json"
+hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
+
+[[files]]
+file = "configureddefaults/config/mapfrontiers-client.toml"
+hash = "1266f3c43e09fe666006a760120836b33968bcbad43e89070c182d440ea2965b"
+
+[[files]]
+file = "configureddefaults/config/pfm.json"
+hash = "96014f97ade673df14e69c0c1f986da77211226dc51dbe2249454bfa84055363"
+
+[[files]]
+file = "configureddefaults/config/sodiumdynamiclights-client.toml"
+hash = "9a439ebfe79ce34cd5ae800207fd2db3ca9740e969b580d788d4080b23b98dab"
+
+[[files]]
+file = "configureddefaults/config/sophisticatedstorage-client.toml"
+hash = "d49bbbb0c1424252493d611acaa27994337ec330bf571e35aa9ff17c1ebc73c5"
 
 [[files]]
 file = "kubejs/README.txt"
