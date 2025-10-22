@@ -205,7 +205,7 @@ hash = "a84b0825f61bb0694da0cd0780f4c5b83582e75b6fde2cece0177e8fc7a5c898"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated.js"
-hash = "bdbdc1eec64bdf7de319dedcee45924b593c97c3725e176b53fc77865edd2c23"
+hash = "1ffbc3b86d99904341a38050576bd28991e987c45b354bfcd6bdcc83a602b9a4"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1324,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "eafe33cc94b4e72b99cc2e93dff4dcab3cd1591312b69bd3592e91868f325a5c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "4e43e7bc6f28d45ec8eaa86862fe856d6ee761f79d507902f42a362015ac907f"
 metafile = true
 
 [[files]]
