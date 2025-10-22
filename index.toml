@@ -105,7 +105,7 @@ hash = "6b83a8cecc4a790401af6805681d1a07f0244a7dd03f4defbc15f39b3f205ef1"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
-hash = "9987d012e26e1b34e1d4d576ef1deb9d409891e7b43ecca3994040dff57ea12a"
+hash = "608c437735d05432613348e8a99e7b6df0c306695668f57c2c9bc1ef448d5a94"
 
 [[files]]
 file = "configureddefaults/README.md"

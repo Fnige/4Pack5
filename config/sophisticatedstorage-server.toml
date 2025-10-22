@@ -348,7 +348,7 @@
 		#Number of inventory slots in the storage
 		# Default: 27
 		# Range: 1 ~ 180
-		inventorySlotCount = 18
+		inventorySlotCount = 27
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -359,7 +359,7 @@
 		#Number of inventory slots in the storage
 		# Default: 45
 		# Range: 1 ~ 180
-		inventorySlotCount = 27
+		inventorySlotCount = 36
 		#Number of upgrade slots in the storage
 		# Default: 1
 		# Range: 0 ~ 10
@@ -370,7 +370,7 @@
 		#Number of inventory slots in the storage
 		# Default: 54
 		# Range: 1 ~ 180
-		inventorySlotCount = 36
+		inventorySlotCount = 45
 		#Number of upgrade slots in the storage
 		# Default: 2
 		# Range: 0 ~ 10
@@ -381,7 +381,7 @@
 		#Number of inventory slots in the storage
 		# Default: 81
 		# Range: 1 ~ 180
-		inventorySlotCount = 45
+		inventorySlotCount = 54
 		#Number of upgrade slots in the storage
 		# Default: 3
 		# Range: 0 ~ 10
@@ -392,7 +392,7 @@
 		#Number of inventory slots in the storage
 		# Default: 108
 		# Range: 1 ~ 180
-		inventorySlotCount = 54
+		inventorySlotCount = 63
 		#Number of upgrade slots in the storage
 		# Default: 4
 		# Range: 0 ~ 10
@@ -403,7 +403,7 @@
 		#Number of inventory slots in the storage
 		# Default: 132
 		# Range: 1 ~ 180
-		inventorySlotCount = 63
+		inventorySlotCount = 72
 		#Number of upgrade slots in the storage
 		# Default: 5
 		# Range: 0 ~ 10
