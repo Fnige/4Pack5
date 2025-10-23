@@ -367,11 +367,6 @@ hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
-file = "mods/better-weaponry.pw.toml"
-hash = "60aa4ffd474d9263c1c4044184f21a5f80f819b2b69be59a68a3eae51b832d20"
-metafile = true
-
-[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
@@ -1277,6 +1272,11 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "af36cf0aa85c590f2f5720da468484ed1f7197c5f00391eff41e757b93b05bc5"
 metafile = true
 
 [[files]]
