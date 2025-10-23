@@ -236,13 +236,13 @@
 		#Minimum speed of rotation to be considered 'medium'
 		# Default: 30.0
 		# Range: 0.0 ~ 4096.0
-		mediumSpeed = 30.0
+		mediumSpeed = 32.0
 		#.
 		#[in Revolutions per Minute]
 		#Minimum speed of rotation to be considered 'fast'
 		# Default: 100.0
 		# Range: 0.0 ~ 65535.0
-		fastSpeed = 100.0
+		fastSpeed = 128.0
 		#.
 		#[in Stress Units]
 		#Minimum stress impact to be considered 'medium'
@@ -424,7 +424,7 @@
 	#The total amount of stacks a vault can hold per block in size.
 	# Default: 20
 	# Range: 1 ~ 2048
-	vaultCapacity = 20
+	vaultCapacity = 40
 	#.
 	#The amount of packages a chain conveyor can carry at a time.
 	# Default: 20
@@ -506,7 +506,7 @@
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	# Default: 10
 	# Range: > 1
-	toolboxRange = 10
+	toolboxRange = 16
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
@@ -539,7 +539,7 @@
 	#Maximum length of track that can be placed as one batch or turn.
 	# Default: 32
 	# Range: 16 ~ 128
-	maxTrackPlacementLength = 32
+	maxTrackPlacementLength = 64
 	#.
 	#Maximum length of a Train Stations' assembly track.
 	# Default: 128

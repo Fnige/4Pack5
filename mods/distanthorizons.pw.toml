@@ -14,5 +14,5 @@ version = "uzLZ00HG"
 
 [option]
 optional = true
+default = false
 description = "LOD Rendering mod. Very helpful for increasing render distance. Eats RAM for breakfast though."
-default = true
