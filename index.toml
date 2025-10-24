@@ -1480,6 +1480,11 @@ hash = "e23a9d35dea90857ae5c89b8b07056f6f774b16a3a18dce0cb54fdd40886c1c9"
 metafile = true
 
 [[files]]
+file = "mods/vanity-core.pw.toml"
+hash = "980e216641c555792628f37b5bee6770069b8fa9c6b859ab5a988a6714782df7"
+metafile = true
+
+[[files]]
 file = "mods/wandering-trader-may-leave.pw.toml"
 hash = "e83f88eac056b856679eb51612f20f828711ff2c3dcfe90ea3a33116144260ba"
 metafile = true
