@@ -1,13 +1,13 @@
 name = "More Sniffer Flowers"
-filename = "MoreSnifferFlowers-1.21.1-neo-6.3.jar"
+filename = "MoreSnifferFlowers-1.21.1-neo-6.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DbriYWc8/versions/rsLFM4lq/MoreSnifferFlowers-1.21.1-neo-6.3.jar"
+url = "https://cdn.modrinth.com/data/DbriYWc8/versions/ZarJuxlz/MoreSnifferFlowers-1.21.1-neo-6.4.jar"
 hash-format = "sha512"
-hash = "6efbff3da92b2d5435aae886fb5d5779300c2efdaf63617bd6348136215a32657cb8388deba1c0c2ebc1bad000a0d48332feb630a4b84d48178967ac8fd82f6d"
+hash = "8002a38878e22029adfbdde2f572fe5f00b5bc4e3a4db05998bb5e40d7ce261c30644bfe10dfa8b840a73acc1b59fbec3b7ae297166f665e494d2a2f5d1e6975"
 
 [update]
 [update.modrinth]
 mod-id = "DbriYWc8"
-version = "rsLFM4lq"
+version = "ZarJuxlz"
