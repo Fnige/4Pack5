@@ -61,6 +61,10 @@ file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
 [[files]]
+file = "config/openloader/packs/4pack5-drp.zip"
+hash = "31966f659ed921fd6eb338f304d8624dd1be5ca505aadb845cbb85aa2add4083"
+
+[[files]]
 file = "config/openloader/packs/consistent-jungle-leaves.pw.toml"
 hash = "43b2cf9b63553cd0afe857293a5840ea3b4ef5ff2b99679763e882f460f796fc"
 metafile = true
