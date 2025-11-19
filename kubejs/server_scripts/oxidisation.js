@@ -2,24 +2,13 @@ ServerEvents.recipes(event => {
 	function oxidising(list) {
 		for (let i of list) {
 			for (let j = 0; j < 3; j++) {
-				event.custom({
-					"type": "create:filling",
-					"ingredients": [
-						{
-							"item": i[j]
-						},
-						{
-							"type": "fluid_stack",
-							"amount": 250,
-							"fluid": "minecraft:water"
-						}
-					],
-					"results": [
-						{
-							"id": i[j+1]
-						}
+				event.recipes.create.filling(
+					i[j+1],
+					[
+						Ingredient.of(i[j]),
+						Fluid.ingredientOf("minecraft:water").withAmount(250)
 					]
-				})
+				)
 			}
 		}
 	}

@@ -1,6 +1,7 @@
 {
     "probejs.classScanning": false,
     "probejs.complete": true,
-    "probejs.modHash": 5046186567870854580,
-    "probejs.generateBeans": true
+    "probejs.modHash": -393981778104448735,
+    "probejs.generateBeans": true,
+    "probejs.enabled": true
 }

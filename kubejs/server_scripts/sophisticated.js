@@ -1,6 +1,7 @@
 ServerEvents.recipes(event => {
 	//#region -- Storage
-	function copperise(arr) {
+
+	function chest(arr) {
 		event.remove({ output: `sophisticatedstorage:${arr[0]}iron${arr[1]}` })
 
 		event.custom({
@@ -30,7 +31,7 @@ ServerEvents.recipes(event => {
 		})
 	};
 
-	let copper = [
+	let chest_list = [
 		["","_barrel"],
 		["limited_","_barrel_1"],
 		["limited_","_barrel_2"],
@@ -39,12 +40,14 @@ ServerEvents.recipes(event => {
 		["","_chest"]
 	]
 
-	for (let index = 0; index < copper.length; index++) {
-		copperise(copper[index])
+	for (let index = 0; index < chest_list.length; index++) {
+		chest(chest_list[index])
 	}
+
 	//#endregion
 
 	//#region -- Backpacks
+
 	let bprem = [
 		"sophisticatedbackpacks:iron_backpack",
 		"sophisticatedbackpacks:tool_swapper_upgrade"
@@ -80,6 +83,11 @@ ServerEvents.recipes(event => {
 		}
 	})
 
+	//#endregion
+
+	//#region -- Upgrades
+
+	// Tool Swapper Upgrade
 	event.shaped(
 		Item.of("sophisticatedbackpacks:tool_swapper_upgrade", 1),
 		[
@@ -99,4 +107,36 @@ ServerEvents.recipes(event => {
 			P: "minecraft:golden_pickaxe"
 		}
 	)
+
+	// Basic to Iron Tier Upgrade
+	event.remove({ output: "sophisticatedstorage:basic_to_iron_tier_upgrade" })
+	event.shaped(
+		Item.of("sophisticatedstorage:basic_to_iron_tier_upgrade"),
+		[
+			"BBB",
+			"BCB",
+			"BBB"
+		],
+		{
+			B: "minecraft:iron_ingot",
+			C: "sophisticatedstorage:basic_to_copper_tier_upgrade"
+		}
+	)
+	
+	// Copper to Iron Tier Upgrade
+	event.remove({ output: "sophisticatedstorage:copper_to_iron_tier_upgrade" })
+	event.shaped(
+		Item.of("sophisticatedstorage:copper_to_iron_tier_upgrade"),
+		[
+			"BBB",
+			"BCB",
+			"BBB"
+		],
+		{
+			B: "minecraft:iron_ingot",
+			C: "minecraft:redstone_torch"
+		}
+	)
+
+	//#endregion
 })

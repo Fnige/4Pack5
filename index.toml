@@ -106,7 +106,7 @@ hash = "0d860001f06c6bf7eac6b48eacb8ef1670776c344acccdea75ce14c4feac51ae"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "6b83a8cecc4a790401af6805681d1a07f0244a7dd03f4defbc15f39b3f205ef1"
+hash = "85fc826d3a9ce09ee27e88cad1b94dc0379ad02c062328f0c493bcd7ffa81306"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
@@ -161,16 +161,24 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
 file = "kubejs/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
-hash = "f47c419ee3372e99593a1faf771e0f8eb6a422b0fd81c8634c89efd8c15b277a"
+hash = "02d65c39bac73cc10f084c6a27ccbe2571b42b7ef7250629661e45b9eb55d88d"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "186aa4b8bb5fb94d15b594494c83f523b0535cc484dfcde588052f2360987941"
+hash = "08751320c30ec8be850339454b9e8f0b03e08d7351339cd3ca27db3473b7a638"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -182,7 +190,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "26aeaa43074a265875807c93c48db1726b563a43134a4225b93623891a721a51"
+hash = "0f5e69830890f49a59c5d31d6b5cb051fb0e9c549193bbb445e4677394d84720"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -197,28 +205,24 @@ file = "kubejs/jsconfig.json"
 hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
-file = "kubejs/main.js"
-hash = "aeb55934bd57f381095af8d74624f4922a4fb28e1eb40402c2a3e8b869c085a6"
-
-[[files]]
-file = "kubejs/oxidisation.js"
-hash = "979768a7f07aead972c7eb968a0ab2b19e07435385039df5a14ad15b9924a50c"
+file = "kubejs/server_scripts/chromatic_revival.js"
+hash = "72d01dcfd4aaa9457bbfef5e5653416a084457abae034958c0c4c7e9a8e72518"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
+hash = "c950931f9035491eb6ab2cad0633f834c829af2fa1abee4fa5318da093becf84"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "185ea39246ee2e0cfffda7ee04b487444a0141c4d820362e3a974e5601888553"
+hash = "91f9d72a426d0b7d2b2830d1605ba7e1fb3da10a3055f436279ebf6d57eb186e"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"
-hash = "a84b0825f61bb0694da0cd0780f4c5b83582e75b6fde2cece0177e8fc7a5c898"
+hash = "c130186f84a299cb15f7f977f60794e99bb3a3d25ea086cabc2e30e0a30f4ba5"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated.js"
-hash = "1ffbc3b86d99904341a38050576bd28991e987c45b354bfcd6bdcc83a602b9a4"
+hash = "cbadad5bc29e140e1c4442f9458d412adeb45b9ade1cf60f5743e3fc402bd5d6"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -995,6 +999,11 @@ hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
 
 [[files]]
+file = "mods/lookin-sharp.pw.toml"
+hash = "355a4e79cb19cd5648322b94456faa6ed2734d7e4ecf7833a60b2f852981b36e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
@@ -1127,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+metafile = true
+
+[[files]]
+file = "mods/oelib.pw.toml"
+hash = "77789a7e1a50c8764747c30d73c85e71406396e226334a436e7f18f4a873fb1e"
 metafile = true
 
 [[files]]
@@ -1277,11 +1291,6 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "af36cf0aa85c590f2f5720da468484ed1f7197c5f00391eff41e757b93b05bc5"
 metafile = true
 
 [[files]]

@@ -1,204 +1,78 @@
 // Visit the wiki for more info - https://kubejs.com/
 
-/* TODO: 
- * - split create recipes up in files maybe?
- * 
- * - more recipes:
- * 	- asurine
- * 	- veridium
- */
-
 ServerEvents.recipes(event => {
-
 	//#region -- mixing
-	
-	function mixing(heat, input, output) {
-		event.custom({
-			"type": "create:mixing",
-			// options "none", "heated", "superheated"
-			"heat_requirement": heat,
-			"ingredients": input,
-			"results": output
-		})
-	}
-	
-	// diorite
-	mixing(
-		"heated",
+
+	// might not be needed, create has its own diorite recipe
+	event.recipes.create.mixing(
+		"minecraft:diorite", 
 		[
-			{
-				"tag": "c:cobblestones"
-			},
-			{
-				"type": "fluid_tag",
-				"amount": 800,
-				"fluid_tag": "c:milk"
-			}
-		],
-		[
-			{
-				"id": "minecraft:diorite"
-			}
+			Ingredient.of("#c:cobblestones"), 
+			Fluid.ingredientOf("minecraft:milk").withAmount(800)
 		]
-	)
-	
-	// gilded blackstone
-	mixing(
-		"heated",
+	).heated()
+
+	event.recipes.create.mixing(
+		"minecraft:gilded_blackstone",
 		[
-			{
-				"item": "minecraft:blackstone"
-			},
-			{
-				"item": "minecraft:gold_ingot"
-			}
-		],
+			Ingredient.of("minecraft:blackstone"),
+			Ingredient.of("minecraft:gold_ingot")
+		]
+	).heated()
+
+	event.recipes.create.mixing(
+		"2x minecraft:calcite",
 		[
-			{
-				"id": "minecraft:gilded_blackstone"
-			}
+			Ingredient.of("minecraft:stone"),
+			Ingredient.of("minecraft:bone_block")
+		]
+	).heated()
+
+	event.recipes.create.mixing(
+		"2x minecraft:tuff",
+		[
+			Ingredient.of("minecraft:andesite"),
+			Ingredient.of("minecraft:diorite")
 		]
 	)
 
-	// calcite
-	mixing(
-		"heated",
+	event.recipes.create.mixing(
 		[
-			{
-				"item": "minecraft:stone"
-			},
-			{
-				"item": "minecraft:bone_block"
-			}
+			"2x minecraft:ancient_debris",
+			CreateItem.of("minecraft:ancient_debris", 0.04)
 		],
 		[
-			{
-				"count": 2,
-				"id": "minecraft:calcite"
-			}
+			Ingredient.of("minecraft:gilded_blackstone"),
+			Ingredient.of("minecraft:gilded_blackstone"),
+			Ingredient.of("minecraft:netherrack"),
+			Ingredient.of("minecraft:netherrack"),
+			Ingredient.of("minecraft:basalt"),
+			Ingredient.of("minecraft:basalt"),
+			Ingredient.of("minecraft:ancient_debris"),
+			Ingredient.of("minecraft:ancient_debris"),
+			Fluid.ingredientOf("minecraft:lava").withAmount(1000)
+		]
+	).superheated()
+
+	event.recipes.create.mixing(
+		"create:asurine",
+		[
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:flint"),
+			Fluid.ingredientOf("minecraft:water").withAmount(800)
 		]
 	)
 
-	// tuff
-	mixing(
-		"none",
+	event.recipes.create.mixing(
+		"create:veridium",
 		[
-			{
-				"item": "minecraft:andesite"
-			},
-			{
-				"item": "minecraft:diorite"
-			}
-		],
-		[
-			{
-				"count": 2,
-				"id": "minecraft:tuff"
-			}
-		]
-	)
-
-	// ancient debris
-	mixing(
-		"superheated",
-		[
-			{
-				"item": "minecraft:gilded_blackstone"
-			},
-			{
-				"item": "minecraft:gilded_blackstone"
-			},
-			{
-				"item": "minecraft:netherrack"
-			},
-			{
-				"item": "minecraft:netherrack"
-			},
-			{
-				"item": "minecraft:basalt"
-			},
-			{
-				"item": "minecraft:basalt"
-			},
-			{
-				"item": "ancient_debris"
-			},
-			{
-				"item": "ancient_debris"
-			},
-			{
-				"type": "fluid_stack",
-				"amount": 1000,
-				"fluid": "minecraft:lava"
-			}
-		],
-		[
-			{
-				"count": 2,
-				"id": "minecraft:ancient_debris"
-			},
-			{
-				"chance": 0.04,
-				"id": "minecraft:ancient_debris"
-			}
-		]
-	)
-
-	// asurine
-	mixing(
-		"none",
-		[
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:flint"
-			},
-			{
-				"type": "fluid_stack",
-				"amount": 800,
-				"fluid": "minecraft:water"
-			}
-		],
-		[
-			{
-				"id": "create:asurine"
-			}
-		]
-	)
-
-	// veridium
-	mixing(
-		"none",
-		[
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:clay_ball"
-			},
-			{
-				"item": "minecraft:flint"
-			},
-			{
-				"type": "fluid_stack",
-				"amount": 800,
-				"fluid": "minecraft:lava"
-			}
-		],
-		[
-			{
-				"id": "create:veridium"
-			}
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:clay_ball"),
+			Ingredient.of("minecraft:flint"),
+			Fluid.ingredientOf("minecraft:lava").withAmount(800)
 		]
 	)
 
@@ -206,89 +80,44 @@ ServerEvents.recipes(event => {
 
 	//#region -- milling
 
-	function milling(time, input, output) {
-		event.custom({
-			"type": "create:milling",
-			"processing_time": time,
-			"ingredients": input,
-			"results": output
-		})
-	}
-
-	// soul sand
-	milling(
-		150,
+	event.recipes.create.milling(
+		"minecraft:soul_sand",
 		[
-			{
-				"item": "minecraft:soul_soil"
-			}
-		],
-		[
-			{
-				"id": "minecraft:soul_sand"
-			}
+			Ingredient.of("minecraft:soul_soil")
 		]
-	)
+	).processingTime(150)
 
-	// cobblestone
-	milling(
-		200,
+	event.recipes.create.milling(
+		"minecraft:cobblestone",
 		[
-			{
-				"item": "minecraft:stone"
-			}
-		],
-		[
-			{
-				"id": "minecraft:cobblestone"
-			}
+			Ingredient.of("minecraft:stone")
 		]
-	)
+	).processingTime(200)
 
-	// cobbled deepslate
-	milling(
-		200,
+		event.recipes.create.milling(
+		"minecraft:cobbled_deepslate",
 		[
-			{
-				"item": "minecraft:deepslate"
-			}
-		],
-		[
-			{
-				"id": "minecraft:cobbled_deepslate"
-			}
+			Ingredient.of("minecraft:deepslate")
 		]
-	)
+	).processingTime(200)
 
 	//#endregion
 
-	event.custom({
-		"type": "create:compacting",
-		"ingredients": [
-			{
-				"item": "minecraft:soul_sand"
-			}
-		],
-		"results": [
-			{
-				"id": "minecraft:soul_soil"
-			}
-		]
-	})
+	//#region -- other
 
-	event.custom({
-		"type": "create:haunting",
-		"ingredients": [
-			{
-				"item": "minecraft:bricks"
-			}
-		],
-		"results": [
-			{
-				"id": "minecraft:nether_bricks"
-			}
+	event.recipes.create.compacting(
+		"minecraft:soul_soil",
+		[
+			Ingredient.of("minecraft:soul_sand")
 		]
-	})
+	)
+
+	event.recipes.create.haunting(
+		"minecraft:nether_bricks",
+		[
+			Ingredient.of("minecraft:bricks")
+		]
+	)
 
 	event.shapeless(
 		Item.of('patchouli:guide_book[patchouli:book="advancedperipherals:manual"]'),
@@ -298,4 +127,6 @@ ServerEvents.recipes(event => {
 			"minecraft:light_blue_dye"
 		]
 	)
+
+	//#endregion
 })
