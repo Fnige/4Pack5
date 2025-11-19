@@ -225,6 +225,10 @@ file = "kubejs/server_scripts/sophisticated.js"
 hash = "cbadad5bc29e140e1c4442f9458d412adeb45b9ade1cf60f5743e3fc402bd5d6"
 
 [[files]]
+file = "kubejs/server_scripts/tag_changes.js"
+hash = "df0f70b2962b75012c68c3b6d55dfe0ce9c7ce801fa43d8caee95791380f5731"
+
+[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
 
@@ -1511,11 +1515,6 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fusion-block-transitions.pw.toml"
-hash = "e5f49f7a3b49f7a03f667c5c5ca43826e7abbfcc0a9fe2499af89b461fac0819"
 metafile = true
 
 [[files]]
