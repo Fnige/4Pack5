@@ -113,6 +113,10 @@ file = "config/sophisticatedstorage-server.toml"
 hash = "608c437735d05432613348e8a99e7b6df0c306695668f57c2c9bc1ef448d5a94"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "6ff68c7dac51692b99ac7cf9d9a3d5e7f48f3164d6806fdb635576830ff65879"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "876b7eb87366c5be8e18deb800a4f98f1718b26f77fba40dcb4dff31935ab3f4"
 
@@ -372,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
-metafile = true
-
-[[files]]
-file = "mods/block-runner.pw.toml"
-hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
 
 [[files]]
