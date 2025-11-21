@@ -7,7 +7,7 @@ url = "https://cdn.modrinth.com/data/E8egdGje/versions/7pZmzEoM/Revault%201.2.zi
 hash-format = "sha512"
 hash = "3fc6bc2f81690f00a5595f206c58cefe7f35356daba7df0dba176396f827dcb75ff4f1a83d92c8db5b20201bde67d775abf9dcd2712bc8256411c62a105f7eac"
 
-[update]
-[update.modrinth]
-mod-id = "E8egdGje"
-version = "7pZmzEoM"
+# [update]
+# [update.modrinth]
+# mod-id = "E8egdGje"
+# version = "7pZmzEoM"
