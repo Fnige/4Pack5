@@ -1,0 +1,8 @@
+[flavor_groups.distanthorizons]
+name = "distant horizons"
+description = "enable or disable distant horizons"
+side = "both"
+choices = ["dh_off", "dh_on"]
+
+[metafile.distanthorizons]
+flavors = "dh_on"

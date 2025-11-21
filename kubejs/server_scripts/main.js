@@ -3,17 +3,22 @@
 ServerEvents.recipes(event => {
 	//#region -- mixing
 
-	// might not be needed, create has its own diorite recipe
-	event.recipes.create.mixing(
-		"minecraft:diorite", 
-		[
-			Ingredient.of("#c:cobblestones"), 
-			Fluid.ingredientOf("minecraft:milk").withAmount(800)
-		]
-	).heated()
+	/* create has its own diorite recipe. 
+	 * this will stay in case people want 
+	 * an easier diorite recipe.
+	 * but we would probably have to do the
+	 * same with granite if thats the case.
+	 */
+	// event.recipes.create.mixing(
+	// 	Item.of("minecraft:diorite"), 
+	// 	[
+	// 		Ingredient.of("#c:cobblestones"), 
+	// 		Fluid.ingredientOf("minecraft:milk").withAmount(800)
+	// 	]
+	// ).heated()
 
 	event.recipes.create.mixing(
-		"minecraft:gilded_blackstone",
+		Item.of("minecraft:gilded_blackstone"),
 		[
 			Ingredient.of("minecraft:blackstone"),
 			Ingredient.of("minecraft:gold_ingot")
@@ -21,7 +26,7 @@ ServerEvents.recipes(event => {
 	).heated()
 
 	event.recipes.create.mixing(
-		"2x minecraft:calcite",
+		Item.of("minecraft:calcite", 2),
 		[
 			Ingredient.of("minecraft:stone"),
 			Ingredient.of("minecraft:bone_block")
@@ -29,7 +34,7 @@ ServerEvents.recipes(event => {
 	).heated()
 
 	event.recipes.create.mixing(
-		"2x minecraft:tuff",
+		Item.of("minecraft:tuff", 2),
 		[
 			Ingredient.of("minecraft:andesite"),
 			Ingredient.of("minecraft:diorite")
@@ -38,7 +43,7 @@ ServerEvents.recipes(event => {
 
 	event.recipes.create.mixing(
 		[
-			"2x minecraft:ancient_debris",
+			Item.of("minecraft:ancient_debris", 2),
 			CreateItem.of("minecraft:ancient_debris", 0.04)
 		],
 		[
@@ -55,7 +60,7 @@ ServerEvents.recipes(event => {
 	).superheated()
 
 	event.recipes.create.mixing(
-		"create:asurine",
+		Item.of("create:asurine"),
 		[
 			Ingredient.of("minecraft:clay_ball"),
 			Ingredient.of("minecraft:clay_ball"),
@@ -66,7 +71,7 @@ ServerEvents.recipes(event => {
 	)
 
 	event.recipes.create.mixing(
-		"create:veridium",
+		Item.of("create:veridium"),
 		[
 			Ingredient.of("minecraft:clay_ball"),
 			Ingredient.of("minecraft:clay_ball"),
@@ -81,21 +86,21 @@ ServerEvents.recipes(event => {
 	//#region -- milling
 
 	event.recipes.create.milling(
-		"minecraft:soul_sand",
+		Item.of("minecraft:soul_sand"),
 		[
 			Ingredient.of("minecraft:soul_soil")
 		]
 	).processingTime(150)
 
 	event.recipes.create.milling(
-		"minecraft:cobblestone",
+		Item.of("minecraft:cobblestone"),
 		[
 			Ingredient.of("minecraft:stone")
 		]
 	).processingTime(200)
 
 		event.recipes.create.milling(
-		"minecraft:cobbled_deepslate",
+		Item.of("minecraft:cobbled_deepslate"),
 		[
 			Ingredient.of("minecraft:deepslate")
 		]
@@ -106,14 +111,14 @@ ServerEvents.recipes(event => {
 	//#region -- other
 
 	event.recipes.create.compacting(
-		"minecraft:soul_soil",
+		Item.of("minecraft:soul_soil"),
 		[
 			Ingredient.of("minecraft:soul_sand")
 		]
 	)
 
 	event.recipes.create.haunting(
-		"minecraft:nether_bricks",
+		Item.of("minecraft:nether_bricks"),
 		[
 			Ingredient.of("minecraft:bricks")
 		]

@@ -37,7 +37,7 @@ ServerEvents.recipes(event => {
 	item_application("minecraft:obsidian", "create:shadow_steel", "create:shadow_steel_casing")
 
 	event.recipes.create.mixing(
-		"create:chromatic_compound",
+		Item.of("create:chromatic_compound"),
 		[
 			Ingredient.of("minecraft:glowstone_dust"),
 			Ingredient.of("minecraft:glowstone_dust"),
