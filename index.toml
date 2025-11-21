@@ -214,19 +214,23 @@ hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
 file = "kubejs/server_scripts/chromatic_revival.js"
-hash = "72d01dcfd4aaa9457bbfef5e5653416a084457abae034958c0c4c7e9a8e72518"
+hash = "c01d165ecf150db81839c514bbd7f0d95e0adfafe704099d3da7fd24b87c60e8"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "c950931f9035491eb6ab2cad0633f834c829af2fa1abee4fa5318da093becf84"
+hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "91f9d72a426d0b7d2b2830d1605ba7e1fb3da10a3055f436279ebf6d57eb186e"
+hash = "3b84cd027eba2b65784a7ffb20c842110cb73d2dd9982506cdad07f925415e3f"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"
 hash = "c130186f84a299cb15f7f977f60794e99bb3a3d25ea086cabc2e30e0a30f4ba5"
+
+[[files]]
+file = "kubejs/server_scripts/qol_recipes.js"
+hash = "4de6d6344b40e598b78301b2a801310b671e43a1eb9090402869e69b52fb36e7"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated.js"
