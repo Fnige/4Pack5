@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/packs/no-more-ruined-portals.pw.toml"
-hash = "1e5e80123889620fb4c66f022a1e335dbc97584645f26fc0ea45c88d3110cb20"
+hash = "d89a05cb1d0b869430b9709b0ac1aa00f512318a9c60fdfcde26fd05a53b1c69"
 metafile = true
 
 [[files]]
