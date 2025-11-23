@@ -1,4 +1,3 @@
-#region -- shaders
 [flavor_groups.shaders]
 name = "Shaders"
 description = "Choose with shader related mods you want to have"
@@ -26,4 +25,3 @@ flavors = ["base_shaders", "euphoria_shaders"]
 flavors = "euphoria_shaders"
 [metafile.complementary-reimagined]
 flavors = "euphoria_shaders"
-#endregion
