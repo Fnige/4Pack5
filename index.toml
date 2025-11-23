@@ -1420,11 +1420,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "d26d63d78d78a0da0241ff696abe86adeaf7ea44643a5f95d0827de19ec7a63e"
-metafile = true
-
-[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
