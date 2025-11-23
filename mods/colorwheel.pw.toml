@@ -14,4 +14,5 @@ version = "2VaQzS9X"
 
 [option]
 optional = true
+default = true
 description = "An iris addon that lets shaders be compatible with flywheel (+ create)\n- Depends on iris"

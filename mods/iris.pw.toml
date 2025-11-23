@@ -14,4 +14,5 @@ version = "t3ruzodq"
 
 [option]
 optional = true
+default = true
 description = "Your local shader mod. Recommended to install colorwheel and colorwheel patcher along with this."
