@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "aea6d37ae312cafb92d9456c9b16e7e8406ba03c5dab5c4ade19a204c509ec85"
+hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4e34da6f7a2ac55a2d145540d8850a499054d405574c26205d8fd78a42ad91b0"
+hash = "2327e1174af61c838f2f5989180be2ec97f6949ceaba040bbaf4f606b27c3263"
 metafile = true
 
 [[files]]
@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+hash = "09162fdcca41f55e16be2b2101239f1d1b138732c3b3bc2b6d70beaca99cc000"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/oelib.pw.toml"
-hash = "77789a7e1a50c8764747c30d73c85e71406396e226334a436e7f18f4a873fb1e"
+hash = "54c4e6d4cc90111715776676d7b6aa0bf4f1b462b09ce7b3836cacb1d94386a8"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
-[flavor_groups.distanthorizons]
-name = "distant horizons"
-description = "enable or disable distant horizons"
-side = "both"
-choices = ["dh_off", "dh_on"]
+[flavor_groups.distant_horizons]
+name = "Distant Horizons"
+side = "client"
+description = "LOD Rendering mod, will use more ram than without (even if disabled?)"
+choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [metafile.distanthorizons]
-flavors = "dh_on"
+flavors = "distant_horizons_on"
