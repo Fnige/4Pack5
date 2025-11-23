@@ -14,4 +14,4 @@ version = "ZJvpKsmV"
 
 [option]
 optional = true
-description = "Very nice if you use complementary shaders, very annoying if you dont."
+description = "Addon for complementary shaders that does a lot.\n- Will error (but not crash) when complementary is not installed or on the right version\n- Depends on Iris to be installed"

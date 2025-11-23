@@ -1,8 +1,29 @@
-[flavor_groups.distant_horizons]
-name = "Distant Horizons"
+#region -- shaders
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Choose with shader related mods you want to have"
 side = "client"
-description = "LOD Rendering mod, will use more ram than without (even if disabled?)"
-choices = ["distant_horizons_off", "distant_horizons_on"]
+[[flavor_groups.Shaders.choices]]
+id = "no_shaders"
+name = "None"
+description = "No shader mods"
+[[flavor_groups.Shaders.choices]]
+id = "base_shaders"
+name = "Iris"
+description = "Iris + Iris compat mods"
+[[flavor_groups.Shaders.choices]]
+id = "euphoria_shaders"
+name = "Euphoria"
+description = "Iris, Iris compat mods along with Euphoria and Complementary"
 
-[metafile.distanthorizons]
-flavors = "distant_horizons_on"
+[metafile.iris]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.colorwheel]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.colorwheel_patcher]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.euphoria-patches]
+flavors = "euphoria_shaders"
+[metafile.complementary-reimagined]
+flavors = "euphoria_shaders"
+#endregion

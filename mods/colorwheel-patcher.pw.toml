@@ -11,3 +11,7 @@ hash = "9ff7e2cafe42fc5e257e0b443363e7782d6ca27fb0692f14275f1cefc6ee998de473fe3b
 [update.modrinth]
 mod-id = "KPsw5jDu"
 version = "WdHrOouX"
+
+[option]
+optional = true
+description = "Patches shaders to work with Colorwheel\n- Depends on colorwheel (duh)"
