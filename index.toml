@@ -477,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "44f9462f2bdb7f3254ef7d7639271159b8b2dd0deffb902d5425e883a38b35ca"
+hash = "dd8bfe680d8296f0c877fadf46aaf21df303bf20e7cd61aef214c46de2ef7d09"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "934d5afe2c8d68e991a5e24955c35abde9511a466ab62b34485363ad3f4dc43b"
+hash = "f119d910247c86ef5c9007975385e29d59eef00b27a229bcf5b14aa923732c71"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7b04e1732d689dad132020c7550008baa9e7b6e8c5cc8c126500c424caba7144"
+hash = "382feda815e656ffadabd409f6075d13a50eadfad064c9d257213093ced84063"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "c2ef9ad994718da114dd576a1cae27951c0c362a617d33fcd9c68237cf13dd4f"
 metafile = true
 
 [[files]]
@@ -1556,5 +1556,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash = "0cd22b058cdaefb40535969091b678c7aed905e45a34689d2b3fd6101ffae665"
 metafile = true
