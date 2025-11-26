@@ -3,15 +3,15 @@
 name = "Shaders"
 description = "Choose with shader related mods you want to have"
 side = "client"
-[[flavor_groups.Shaders.choices]]
+[[flavor_groups.shaders.choices]]
 id = "no_shaders"
 name = "None"
 description = "No shader mods"
-[[flavor_groups.Shaders.choices]]
+[[flavor_groups.shaders.choices]]
 id = "base_shaders"
 name = "Iris"
 description = "Iris + Iris compat mods"
-[[flavor_groups.Shaders.choices]]
+[[flavor_groups.shaders.choices]]
 id = "euphoria_shaders"
 name = "Euphoria"
 description = "Iris, Iris compat mods along with Euphoria and Complementary"
