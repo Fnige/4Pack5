@@ -1,27 +1,27 @@
-# [flavor_groups.shaders]
-# name = "Shaders"
-# description = "Choose with shader related mods you want to have"
-# side = "client"
-# [[flavor_groups.Shaders.choices]]
-# id = "no_shaders"
-# name = "None"
-# description = "No shader mods"
-# [[flavor_groups.Shaders.choices]]
-# id = "base_shaders"
-# name = "Iris"
-# description = "Iris + Iris compat mods"
-# [[flavor_groups.Shaders.choices]]
-# id = "euphoria_shaders"
-# name = "Euphoria"
-# description = "Iris, Iris compat mods along with Euphoria and Complementary"
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Choose with shader related mods you want to have"
+side = "client"
+[[flavor_groups.Shaders.choices]]
+id = "no_shaders"
+name = "None"
+description = "No shader mods"
+[[flavor_groups.Shaders.choices]]
+id = "base_shaders"
+name = "Iris"
+description = "Iris + Iris compat mods"
+[[flavor_groups.Shaders.choices]]
+id = "euphoria_shaders"
+name = "Euphoria"
+description = "Iris, Iris compat mods along with Euphoria and Complementary"
 
-# [metafile.iris]
-# flavors = ["base_shaders", "euphoria_shaders"]
-# [metafile.colorwheel]
-# flavors = ["base_shaders", "euphoria_shaders"]
-# [metafile.colorwheel_patcher]
-# flavors = ["base_shaders", "euphoria_shaders"]
-# [metafile.euphoria-patches]
-# flavors = "euphoria_shaders"
-# [metafile.complementary-reimagined]
-# flavors = "euphoria_shaders"
+[metafile.iris]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.colorwheel]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.colorwheel_patcher]
+flavors = ["base_shaders", "euphoria_shaders"]
+[metafile.euphoria-patches]
+flavors = "euphoria_shaders"
+[metafile.complementary-reimagined]
+flavors = "euphoria_shaders"
