@@ -1,7 +1,7 @@
 # Shaders
 [flavor_groups.shaders]
 name = "Shaders"
-description = "Choose with shader related mods you want to have"
+description = "Choose with shader related mods you want to have\n"
 side = "client"
 [[flavor_groups.shaders.choices]]
 id = "no_shaders"
@@ -13,7 +13,7 @@ name = "Iris"
 description = "Iris + Iris compat mods"
 [[flavor_groups.shaders.choices]]
 id = "euphoria_shaders"
-name = "Euphoria"
+name = "Iris + Euphoria"
 description = "Iris, Iris compat mods along with Euphoria and Complementary"
 
 [metafile.iris]
@@ -30,7 +30,7 @@ flavors = "euphoria_shaders"
 # Mapping
 [flavor_groups.mapping]
 name = "Mapping Mods"
-description = "Your choice of mapping mod for the server\n<b>Journeymap is highly recommended.</b>"
+description = "Your choice of mapping mod for the server\n<b>Journeymap is highly recommended.</b>\n"
 [[flavor_groups.mapping.choices]]
 id = "journey"
 name = "Journeymap"

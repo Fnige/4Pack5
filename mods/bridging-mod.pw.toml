@@ -15,4 +15,4 @@ version = "GiR8tHNc"
 [option]
 optional = true
 default = true
-description = "Brings bedrock-like briding over to java. Makes briding easier and has a key to enable/disable it, but its optional in case you dont plan to ever use it."
+description = "Reach-around placement kind of like what you see on bedrock edition and quark.\nMakes briding easier and has a key to enable/disable it, but its optional in case you dont plan to ever use it."
