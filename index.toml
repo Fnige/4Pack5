@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "a4d15d83a24ce3e42fe6a872c9a98400af3d8cb7a7f8a1561120841e1b293929"
+hash = "337d59091f4f98173bc79c9a240c318d090a467234143db5096861eb5ad5eac3"
 metafile = true
 
 [[files]]
