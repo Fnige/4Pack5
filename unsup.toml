@@ -19,7 +19,7 @@ description = "Iris, Iris compat mods along with Euphoria and Complementary"
 flavors = ["base_shaders", "euphoria_shaders"]
 [metafile.colorwheel]
 flavors = ["base_shaders", "euphoria_shaders"]
-[metafile.colorwheel_patcher]
+[metafile.colorwheel-patcher]
 flavors = ["base_shaders", "euphoria_shaders"]
 [metafile.euphoria-patches]
 flavors = "euphoria_shaders"
