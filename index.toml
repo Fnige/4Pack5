@@ -745,6 +745,11 @@ hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "2eb7fc59d71b21b40f4960dd2fd3b12061599098c0a343dd9beee89cb90c39c2"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -957,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-web-map.pw.toml"
+hash = "728283ffac60ed587b498708e66643a411235557e4f33af24c58fa57a16585d2"
 metafile = true
 
 [[files]]
@@ -1530,6 +1540,16 @@ hash = "e83f88eac056b856679eb51612f20f828711ff2c3dcfe90ea3a33116144260ba"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7631bccca7eee34cd064e1fb5bf6a7a0caede7ed3546fb4e61b8e83e1b5745ea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ea326eebabdcc7adfd2e1daf71e26665d0db0eff5a6b1be4d55f5e9d101a74d6"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
@@ -1547,6 +1567,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
+hash = "3745b2a7d56f3e2f8cfccb3c47c208068f2825c3448b4fc1a41e53d3e7fae741"
 metafile = true
 
 [[files]]

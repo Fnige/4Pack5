@@ -1,0 +1,18 @@
+name = "JourneyMap  Web Map"
+filename = "journeymap-webmap-neoforge-1.21.4-1.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YaZ1fUTg/versions/vIxvR7Pw/journeymap-webmap-neoforge-1.21.4-1.0.9.jar"
+hash-format = "sha512"
+hash = "9c5b4b50327011b9c2342ed2a1d100171f54cf3db984af45049122a580c2f0fab3c25dc094543571bbbb67eb8b8398f95670743f89b2125a3bf99483f3085a1c"
+
+[update]
+[update.modrinth]
+mod-id = "YaZ1fUTg"
+version = "vIxvR7Pw"
+
+[option]
+optional = true
+default = false
+description = "Addon for Journeymap that adds a map you can view in your browser.\nRequires JourneyMap to be installed."

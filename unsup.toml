@@ -26,3 +26,31 @@ flavors = ["base_shaders", "euphoria_shaders"]
 flavors = "euphoria_shaders"
 [metafile.complementary-reimagined]
 flavors = "euphoria_shaders"
+
+# Mapping
+[flavor_groups.mapping]
+name = "Mapping Mods"
+description = "Your choice of mapping mod for the server\n<b>Journeymap is highly recommended.</b>"
+[[flavor_groups.mapping.choices]]
+id = "journey"
+name = "Journeymap"
+description = "JourneyMap & MapFrontiers."
+[[flavor_groups.mapping.choices]]
+id = "webmap"
+name = "JM + Web Map"
+description = "JourneyMap along with its web map addon, letting you have your map open in a browser."
+[[flavor_groups.mapping.choices]]
+id = "xaeros"
+name = "Xaero's Map"
+description = "Xaero's Minimap + Worldmap. Will not have proper support compared to JM, but its here if you want it I guess."
+
+[metafile.journeymap]
+flavors = ["journey", "webmap"]
+[metafile.mapfrontiers]
+flavors = ["journey", "webmap"]
+[metafile.journeymap-web-map]
+flavors = "webmap"
+[metafile.xaeros-minimap]
+flavors = "xaeros"
+[metafile.xaeros-world-map]
+flavors = "xaeros"
