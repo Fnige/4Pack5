@@ -531,8 +531,8 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
-file = "mods/copycats-1.21.1-neoforge.jar"
-hash = "b63bd1b7e8947383e9ab3608c6db7f07ef3560faf41d4e6c8e72bc20de67c49f"
+file = "mods/copycats-3.0.4+mc.1.21.1-neoforge-patched.jar"
+hash = "8d949f3d5a6bcb6a8034325a6f454d49023003377ac092beed38bb4be44ad548"
 
 [[files]]
 file = "mods/corn-delight.pw.toml"
