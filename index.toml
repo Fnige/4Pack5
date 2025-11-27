@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
+hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
@@ -399,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "337d59091f4f98173bc79c9a240c318d090a467234143db5096861eb5ad5eac3"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "fbb4954b6bcfb8a492b74cbd1d913fd27f481e0cab1ab9371751e1e1843e3da1"
 metafile = true
 
 [[files]]
@@ -575,6 +580,11 @@ hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
@@ -642,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
 hash = "25544da03e459f3107e46a86888c957e96d7cae8ca625e3be293033a9515a0c0"
+metafile = true
+
+[[files]]
+file = "mods/createtreadmill.pw.toml"
+hash = "344898ef937e5bd3fce40dc9b434224be1974d855dac72b214dc6d26b360de00"
 metafile = true
 
 [[files]]
@@ -756,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "65ec07aecd382445db54bcb1e8c458345979b5cfa9d49d0ab891111267380735"
+hash = "ae513cc0ae6e28e70e402bf9a1e5300f991c81b07539e4f7e3aac1e07298eead"
 metafile = true
 
 [[files]]
@@ -1116,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fbb98039d010c2aee0f07b67c66e6b17477feb69ee4cba68084c170794da1ce2"
+hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
 metafile = true
 
 [[files]]
@@ -1406,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "55c8056ba1454acf25252ec1c7d3a33bb59c9bd8273f28f6e0402e542073ce16"
+hash = "cba519b3e00eb2e03b3532664d1d99de5a0dd306c6ce4b49dcd462a58d4c187b"
 metafile = true
 
 [[files]]
