@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6"
+hash = "95bd80c000aa61dae370909918ae051cea2cbdea840e416d0de42a354fdf7574"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -221,8 +221,12 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
+file = "kubejs/server_scripts/lookin_sharp.js"
+hash = "46fb3c6cfd210b243b244b2d625fb048201b5dd322311210d6dbd7d0636ab428"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "3b84cd027eba2b65784a7ffb20c842110cb73d2dd9982506cdad07f925415e3f"
+hash = "ac590e2c0668cf14604f5dd733528761c6228ed90388887701bd64a616cea36f"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"

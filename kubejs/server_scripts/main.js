@@ -124,6 +124,15 @@ ServerEvents.recipes(event => {
 		]
 	)
 
+	// event.remove({ id: "create_synthetic_pressure:crushing/recycling"})
+	event.recipes.create.crushing(
+		[
+			CreateItem.of("minecraft:gravel", 0.9),
+			CreateItem.of("create_synthetic_pressure:graphite_powder", 0.5)
+		],
+		Item.of("create_synthetic_pressure:impure_diamond")
+	).processingTime(500)
+
 	event.shapeless(
 		Item.of('patchouli:guide_book[patchouli:book="advancedperipherals:manual"]'),
 		[
@@ -133,5 +142,9 @@ ServerEvents.recipes(event => {
 		]
 	)
 
+	// CEI nugget of experience recipes
+	event.remove({ id: "create_enchantment_industry:compacting/infested_stone" })
+	event.remove({ id: "create_enchantment_industry:crushing/infested_cobblestone"})
+	
 	//#endregion
 })
