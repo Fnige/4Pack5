@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "95bd80c000aa61dae370909918ae051cea2cbdea840e416d0de42a354fdf7574"
+hash = "d31e599799f9978b1cd3849d84700bb9c7584a34c37eef7b273203fc96e69525"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -95,6 +95,10 @@ hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
 [[files]]
 file = "config/simple_snowy_fix_common.json"
 hash = "017a059c3994d538129686a331a107714ba52c8852597da72f168780cb1c2f69"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "bf422f429c05c6223a63a7801f43664791e52cdee6d705fd16d59afd346257a6"
 
 [[files]]
 file = "config/sliceanddice-common.toml"

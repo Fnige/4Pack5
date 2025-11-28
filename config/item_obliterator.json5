@@ -42,7 +42,7 @@
 	// Items here will get their recipes disabled
 	// Keep in mind this already is applied to blacklisted items
 	"only_disable_recipes": [
-		"examplemod:example_item"
+		"constructionstick:template_battery"
 	],
 	// -----------------------------------------------------------
 	// If true, the mod will use a hashset to handle the blacklisted items
