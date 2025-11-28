@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
@@ -387,8 +387,18 @@ hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "b88c3287eeda12f7f7a8f3ab9f69ce3d7cd79f3f2a417ada016fb64042015ae5"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "e94f595a5a63fdabe834b84904695ccca3f9bac8856c98b57abd8687555dc213"
+metafile = true
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "67c8dfa7ae71ad475721ffa03c31b6c73367868a8d867736ae5546acee3b4cc5"
 metafile = true
 
 [[files]]
@@ -399,11 +409,6 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "337d59091f4f98173bc79c9a240c318d090a467234143db5096861eb5ad5eac3"
-metafile = true
-
-[[files]]
-file = "mods/building-wands.pw.toml"
-hash = "fbb4954b6bcfb8a492b74cbd1d913fd27f481e0cab1ab9371751e1e1843e3da1"
 metafile = true
 
 [[files]]
@@ -454,11 +459,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "cac5dea619484fdf86d72eee30923e48a4389740df24229cefc861ebfbff72ee"
 metafile = true
 
 [[files]]
@@ -521,8 +521,8 @@ hash = "74705ad5043cf5866d0b558e9cded4b78eaf12afc2f78ab12c0863cc2d4c54d0"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
+file = "mods/construction-sticks.pw.toml"
+hash = "1fe7374905fbcffd31daff9c3e1f5469623b68b04036908fbc069085aaf72cec"
 metafile = true
 
 [[files]]
@@ -710,6 +710,10 @@ hash = "c0d4f6b100550c39dac23e5f2f2a71457b5cfadfc745d6d2e8af1ae2d8994d56"
 metafile = true
 
 [[files]]
+file = "mods/disablefireworkboost-1.0.0.jar"
+hash = "021ae3c7cfbd3dedfc790a06920a2e1150390b0604cac99d8f3f33726a691133"
+
+[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
 metafile = true
@@ -820,11 +824,6 @@ hash = "5916832d06322a7a54d87e1fe47da5009daed0213510573d9c311c5ceefa9937"
 metafile = true
 
 [[files]]
-file = "mods/fabric-disable-firework-boost.pw.toml"
-hash = "28dd51248e3f7c18893febb9a0d6854c2732ce7cf5a33a98855939a65e2c4a0f"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
@@ -882,11 +881,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
@@ -1087,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "662593e017611512dfc07d2f3d8cdbc1e9c75c063bcc3921a959dd44dd23af6a"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "587201ac6fc1741e3a10218a36d709cdfc3089b174ab08dccdbf8633814eeab8"
 metafile = true
 
 [[files]]
@@ -1522,6 +1521,11 @@ metafile = true
 [[files]]
 file = "mods/trimmed.pw.toml"
 hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
+metafile = true
+
+[[files]]
+file = "mods/tweakerge.pw.toml"
+hash = "51532cebea5019d8b9cf24b0eda707b82202fe731b6d7d21b82dbc28bf7053b6"
 metafile = true
 
 [[files]]
