@@ -141,10 +141,6 @@ ServerEvents.recipes(event => {
 			"minecraft:light_blue_dye"
 		]
 	)
-
-	// CEI nugget of experience recipes
-	event.remove({ id: "create_enchantment_industry:compacting/infested_stone" })
-	event.remove({ id: "create_enchantment_industry:crushing/infested_cobblestone"})
 	
 	//#endregion
 })

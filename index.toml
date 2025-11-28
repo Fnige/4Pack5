@@ -226,7 +226,7 @@ hash = "46fb3c6cfd210b243b244b2d625fb048201b5dd322311210d6dbd7d0636ab428"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ac590e2c0668cf14604f5dd733528761c6228ed90388887701bd64a616cea36f"
+hash = "d8029a9c5e673936b48e424e13f97145162c8f9fc54c84f473703b48198bad9a"
 
 [[files]]
 file = "kubejs/server_scripts/oxidisation.js"
@@ -1325,6 +1325,11 @@ metafile = true
 [[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "3a7245737f7656eaed519074fa68ae7fd54dead6ba374ccb26f8021c4a7f04fa"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "00c92d192436a4dde9a7cb2ba3be298bbe06bc6076d2c28332e499ae7dde2bc0"
 metafile = true
 
 [[files]]
