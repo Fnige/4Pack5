@@ -18,7 +18,7 @@ hash = "77aa59957d0b40525b38ae587deffee3ef23dabd5df681fe45bab32f4a033804"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "9ac563df85e440cd0198bfd94b99c1465b14ea224cc239e028c79ab173480de5"
+hash = "fb5e2a8d3e025c3ed8ef19617d1d02cd7b5083c7513a781310d3953143b91ad5"
 
 [[files]]
 file = "config/carryon-common.toml"
