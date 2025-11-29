@@ -17,10 +17,12 @@ ServerEvents.recipes(event => {
 	// 	]
 	// ).heated()
 
+	// See, there is a recipe that breaks it back down. And you get xp from it... I am going to choose to not care for now
 	event.recipes.create.mixing(
 		Item.of("minecraft:gilded_blackstone"),
 		[
 			Ingredient.of("minecraft:blackstone"),
+			Ingredient.of("minecraft:gold_ingot"),
 			Ingredient.of("minecraft:gold_ingot")
 		]
 	).heated()
