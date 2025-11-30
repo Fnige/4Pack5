@@ -68,7 +68,7 @@ no_projectile_immunity = true
 	#Default Value: 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
-	min_attack_strength = 1.0
+	min_attack_strength = 0.0
 	#Holding down the attack button keeps attacking continuously. No more spam clicking required.
 	#Default Value: false
 	hold_attack_button = true

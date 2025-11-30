@@ -26,7 +26,7 @@ hash = "45bec3fe36605626c6bfda906122a410094c7b4c555edd57f283b25ee2b694ed"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "1bd13826a513a1716048da912e4af68b2c3cdd9e7797a07ee45dd180b1a20e0f"
+hash = "a50e5c6f8ebc3869526597064489a2f25966ec77db24064e2897e902b6b64a10"
 
 [[files]]
 file = "config/completionistsindex-client.toml"
@@ -739,11 +739,6 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "e62ad211845d7aed46061fb23f6bfd8f66cf3ff3ece7ffa20766d40cf8b1387f"
-metafile = true
-
-[[files]]
-file = "mods/double-doors.pw.toml"
-hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
 
 [[files]]
