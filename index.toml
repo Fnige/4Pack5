@@ -26,7 +26,7 @@ hash = "45bec3fe36605626c6bfda906122a410094c7b4c555edd57f283b25ee2b694ed"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "a50e5c6f8ebc3869526597064489a2f25966ec77db24064e2897e902b6b64a10"
+hash = "a188c5f8a9af86d787b24dcc4887004a42ba954ff630e60860635ce7c3347229"
 
 [[files]]
 file = "config/completionistsindex-client.toml"
@@ -519,13 +519,18 @@ hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "460c407f5eb6ffd345208f18209b9ae50867204196ed782642b6e7ba88b0feae"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "74705ad5043cf5866d0b558e9cded4b78eaf12afc2f78ab12c0863cc2d4c54d0"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
@@ -1023,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "c9a85ef82394085adf3471b89f5b9b5fe3d8d21dcaafb12da54bd679864dc137"
+hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
 
 [[files]]
@@ -1103,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/misctweaks.pw.toml"
-hash = "fa9746c86c8c248c2c9bcf3cc877747ecced23ee616ec023a69a3c5cfa211f5e"
+hash = "f516f5360dc59e06161725dda9671593d1746ec87b84c5c82b226c34c9f7651e"
 metafile = true
 
 [[files]]
@@ -1157,6 +1162,11 @@ hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "2ad173da348b9fdb57400235737bb9933b258244b0d7919401a8cafcbb822c92"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -1193,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/oelib.pw.toml"
-hash = "54c4e6d4cc90111715776676d7b6aa0bf4f1b462b09ce7b3836cacb1d94386a8"
+hash = "aadc26768bb769b4a34660c46fc3fac111a730273931dd9ec8627925f19be4bb"
 metafile = true
 
 [[files]]
