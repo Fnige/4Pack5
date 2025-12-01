@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "d31e599799f9978b1cd3849d84700bb9c7584a34c37eef7b273203fc96e69525"
+hash = "62d5e0ef95d213b94124f1ade1e2d061cb5953e629f13d803ae90b37b3441c2f"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -87,6 +87,14 @@ hash = "ae0a6835ef01cd41c8641a714e684995f37129aa44c86be90d8fc2b948b8915f"
 file = "config/openloader/packs/revault.pw.toml"
 hash = "0d0d9b039727e912354f80b50ca50291a8cce72fe49cf9fccd223089958d9cc4"
 metafile = true
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "3af00c57a517b090e56fc8ed5f1adbf0afddfa3b54a1a8e489fd8dcb6a179a2d"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "276657fdb7a4ce7ec7cd8d8641d87af9299537eb38b5432d101dcb78d072b274"
 
 [[files]]
 file = "config/shulkerdropstwo.json5"
@@ -325,6 +333,11 @@ hash = "a9e484b00a179520ca4d20e23be6b2446da6773c7db4a967c1edac9557a77766"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
@@ -357,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
 metafile = true
 
 [[files]]
@@ -1312,6 +1330,11 @@ hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -1544,6 +1567,11 @@ metafile = true
 [[files]]
 file = "mods/tweakerge.pw.toml"
 hash = "51532cebea5019d8b9cf24b0eda707b82202fe731b6d7d21b82dbc28bf7053b6"
+metafile = true
+
+[[files]]
+file = "mods/two-players-one-horse.pw.toml"
+hash = "ab673373fa8785fb63443f8ae2c8692e9e8571d102015d210a3f2247ce6f91d3"
 metafile = true
 
 [[files]]
