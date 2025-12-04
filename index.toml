@@ -369,11 +369,6 @@ hash = "d148616971b70f19c29643611f815fcf258eeb142e31ee81252ddea6cf9fc4b1"
 metafile = true
 
 [[files]]
-file = "mods/backported-spears.pw.toml"
-hash = "f25458fe7e85866f338c3c363063485938733dcd71b53eab8f047e6a27c5e960"
-metafile = true
-
-[[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "c2c827d86c4612b3530a31dfd0e0aea7c99a7ff49522050383c21cf1030f6fa4"
 metafile = true
@@ -501,11 +496,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/client-crafting.pw.toml"
-hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
 metafile = true
 
 [[files]]
@@ -682,18 +672,8 @@ hash = "7cbcc68274747ac4ffb9f4a88f87c2fbcda7a2c267098173a279781ced0e25b6"
 metafile = true
 
 [[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
-metafile = true
-
-[[files]]
-file = "mods/create-shuffle-filter.pw.toml"
-hash = "6988d91e156d5e983ff5483ffcf0beb632b3b5e52352270631150148da515e7b"
 metafile = true
 
 [[files]]
