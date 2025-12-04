@@ -57,6 +57,3 @@ ItemEvents.modifyTooltips(event => {
 		tooltip.insert(2, Text.of("or drop it into the void").color(0x4C4760))
 	})
 })
-
-// Refined casing: Framed Glass + Refined Radiance
-// Shadow casing : Obsidian + Shadow Steel

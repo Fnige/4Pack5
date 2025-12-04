@@ -92,8 +92,13 @@ ServerEvents.recipes( e => {
 
 	//#region -- bulk smelting
 
+	function bulk_blasting(item, input, xp, time) {
+		e.smelting( item, input, xp, time )
+		e.blasting( item, input, xp, time / 2)
+	}
+
 	// iron block
-	e.smelting(
+	bulk_blasting(
 		Item.of("minecraft:iron_block"),
 		"minecraft:raw_iron_block",
 		6.3,
@@ -101,7 +106,7 @@ ServerEvents.recipes( e => {
 	)
 
 	// copper block
-	e.smelting(
+	bulk_blasting(
 		Item.of("minecraft:copper_block"),
 		"minecraft:raw_copper_block",
 		6.3,
@@ -109,7 +114,7 @@ ServerEvents.recipes( e => {
 	)
 
 	// gold block
-	e.smelting(
+	bulk_blasting(
 		Item.of("minecraft:gold_block"),
 		"minecraft:raw_gold_block",
 		6.3,
@@ -117,7 +122,7 @@ ServerEvents.recipes( e => {
 	)
 
 	// shadoline block
-	e.smelting(
+	bulk_blasting(
 		Item.of("enderscape:shadoline_block"),
 		"enderscape:raw_shadoline_block",
 		6.3,
@@ -125,7 +130,7 @@ ServerEvents.recipes( e => {
 	)
 
 	// zinc block
-	e.smelting(
+	bulk_blasting(
 		Item.of("create:zinc_block"),
 		"create:raw_zinc_block",
 		6.3,

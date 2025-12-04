@@ -16,8 +16,9 @@
 	// Items here will be unusable completely
 	//    Example: minecraft:diamond
 	"blacklisted_items": [
-		"createfisheryindustry:pneumatic_harpoon_gun",
-		"crittersandcompanions:grappling_hook"
+		"createfisheryindustry:pneumatic_harpoon_gun", // Causes protocol errors
+		"crittersandcompanions:grappling_hook",        // Sometimes crashes the client or server
+		"minecraft:elytra"                             // Breaks the game's balance, people also like this idea too so :3
 	],
 	// -----------------------------------------------------------
 	// Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

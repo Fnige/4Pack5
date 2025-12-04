@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "62d5e0ef95d213b94124f1ade1e2d061cb5953e629f13d803ae90b37b3441c2f"
+hash = "9af3b6cfb96859129b23f2a5b41c520282f04296eb0be4b974124541baf2ce0a"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -225,8 +225,24 @@ file = "kubejs/jsconfig.json"
 hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
-file = "kubejs/server_scripts/chromatic_revival.js"
-hash = "c01d165ecf150db81839c514bbd7f0d95e0adfafe704099d3da7fd24b87c60e8"
+file = "kubejs/server_scripts/create/chromatic_revival.js"
+hash = "8ee7a2865e9a5aa4085afb9b4583dd72165534ce0bd6ba97f7c0c5056ff8da1b"
+
+[[files]]
+file = "kubejs/server_scripts/create/food.js"
+hash = "43c1618748890bd562525f7e65ed3a7a3ba251636f799ee70e6a33d5c7e777a3"
+
+[[files]]
+file = "kubejs/server_scripts/create/misc.js"
+hash = "edcb73c44a6cffa517f298cf295df9cbfd55634db5c8802b97cbc825495d1a2f"
+
+[[files]]
+file = "kubejs/server_scripts/create/oxidisation.js"
+hash = "c130186f84a299cb15f7f977f60794e99bb3a3d25ea086cabc2e30e0a30f4ba5"
+
+[[files]]
+file = "kubejs/server_scripts/create/stones.js"
+hash = "379db59d839b42d02120899c4190bb92b056f7c5f7d1a6ebf1f74c39d3623ed3"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -238,15 +254,15 @@ hash = "46fb3c6cfd210b243b244b2d625fb048201b5dd322311210d6dbd7d0636ab428"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "73b47109445516dc772eeaec8470fdd493618d1c108926648abc839d8d45de69"
-
-[[files]]
-file = "kubejs/server_scripts/oxidisation.js"
-hash = "c130186f84a299cb15f7f977f60794e99bb3a3d25ea086cabc2e30e0a30f4ba5"
+hash = "278ad1f66294de5fc1c18397ce2d277291193a01a1e97f7726e13fc02f7d829e"
 
 [[files]]
 file = "kubejs/server_scripts/qol_recipes.js"
-hash = "4de6d6344b40e598b78301b2a801310b671e43a1eb9090402869e69b52fb36e7"
+hash = "c9325c78910ef1a1d891a81ba69669e4745e3ef962d5ac797ce6b33fbbaeca22"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_fixing.js"
+hash = "8e39511e1efda06cb7ea85792ead92bd7c8970ca60ed3156ac0875be890e9785"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated.js"
@@ -254,7 +270,7 @@ hash = "cbadad5bc29e140e1c4442f9458d412adeb45b9ade1cf60f5743e3fc402bd5d6"
 
 [[files]]
 file = "kubejs/server_scripts/tag_changes.js"
-hash = "df0f70b2962b75012c68c3b6d55dfe0ce9c7ce801fa43d8caee95791380f5731"
+hash = "7980586ef6fb9fcaf1b0282977ce2550010506b0501d43a0ce53dcdba8d9f12b"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -319,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
+hash = "50002aaf2ecbe1e76fc98f361effd3cdd04907ea0bd84d901a436630500202f3"
 metafile = true
 
 [[files]]
@@ -350,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "d148616971b70f19c29643611f815fcf258eeb142e31ee81252ddea6cf9fc4b1"
+metafile = true
+
+[[files]]
+file = "mods/backported-spears.pw.toml"
+hash = "f25458fe7e85866f338c3c363063485938733dcd71b53eab8f047e6a27c5e960"
 metafile = true
 
 [[files]]
@@ -410,11 +431,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "b88c3287eeda12f7f7a8f3ab9f69ce3d7cd79f3f2a417ada016fb64042015ae5"
 metafile = true
 
 [[files]]
@@ -485,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
 metafile = true
 
 [[files]]
@@ -661,8 +682,18 @@ hash = "7cbcc68274747ac4ffb9f4a88f87c2fbcda7a2c267098173a279781ced0e25b6"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "6988d91e156d5e983ff5483ffcf0beb632b3b5e52352270631150148da515e7b"
 metafile = true
 
 [[files]]
@@ -687,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
+hash = "520d7c8964a417e2309002c9a400172495a949d75d99952e296eac8993dedb3c"
 metafile = true
 
 [[files]]
@@ -1076,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "09162fdcca41f55e16be2b2101239f1d1b138732c3b3bc2b6d70beaca99cc000"
+hash = "1a4a4cb11e70c5b82f3b3d2180f6055babf86a04c9a45f0d3a2e89239f44ca08"
 metafile = true
 
 [[files]]
@@ -1151,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
+hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
 metafile = true
 
 [[files]]
@@ -1245,8 +1276,8 @@ hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "73946fc762c8c03bce86fb420893838136413b36fcd49da3a15949de3130456d"
+file = "mods/particle-rain.pw.toml"
+hash = "bcec8b710d64baa7d574b204440c2327b28373cb8910b32e32b8172b69b63531"
 metafile = true
 
 [[files]]
@@ -1272,11 +1303,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
-metafile = true
-
-[[files]]
-file = "mods/pretty-rain.pw.toml"
-hash = "df0eef7f8bfbbd14615ffd23c176769509a949bf5b850c5633c3d7e8f3992ae6"
 metafile = true
 
 [[files]]
