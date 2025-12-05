@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
 			Ingredient.of("corn_delight:corn"),
 			Ingredient.of("corn_delight:corn"),
 			Ingredient.of("corn_delight:corn"),
-			Fluid.ingredientOf("minecraft:water").withAmount(1000)
+			Fluid.ingredientOf("minecraft:water").withAmount(250)
 		]
 	)
 	

@@ -230,7 +230,7 @@ hash = "8ee7a2865e9a5aa4085afb9b4583dd72165534ce0bd6ba97f7c0c5056ff8da1b"
 
 [[files]]
 file = "kubejs/server_scripts/create/food.js"
-hash = "43c1618748890bd562525f7e65ed3a7a3ba251636f799ee70e6a33d5c7e777a3"
+hash = "b3070865cd2ebc2164ba4ddbd6503b1f840da166a30f0537d581b543bf63dea8"
 
 [[files]]
 file = "kubejs/server_scripts/create/misc.js"
@@ -250,7 +250,7 @@ hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
 
 [[files]]
 file = "kubejs/server_scripts/lookin_sharp.js"
-hash = "46fb3c6cfd210b243b244b2d625fb048201b5dd322311210d6dbd7d0636ab428"
+hash = "c384fac5efad79bfd826f0cc3d2a367f5ffaf0251bf7e7dc165515ebc87e0b22"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -765,10 +765,6 @@ metafile = true
 file = "mods/ding.pw.toml"
 hash = "c0d4f6b100550c39dac23e5f2f2a71457b5cfadfc745d6d2e8af1ae2d8994d56"
 metafile = true
-
-[[files]]
-file = "mods/disablefireworkboost-1.0.0.jar"
-hash = "021ae3c7cfbd3dedfc790a06920a2e1150390b0604cac99d8f3f33726a691133"
 
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
