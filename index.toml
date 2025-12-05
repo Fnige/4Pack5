@@ -1482,6 +1482,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "edbd2629803465c5baf0e758eb15f2408d5a28a7b74f762160c0d595afaed17e"
+metafile = true
+
+[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
