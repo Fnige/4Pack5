@@ -18,7 +18,12 @@
 	"blacklisted_items": [
 		"createfisheryindustry:pneumatic_harpoon_gun", // Causes protocol errors
 		"crittersandcompanions:grappling_hook",        // Sometimes crashes the client or server
-		"minecraft:elytra"                             // Breaks the game's balance, people also like this idea too so :3
+		"minecraft:elytra",                            // Breaks the game's balance, people also like this idea too so :3
+
+		// *apparently* these dont get properly disabled
+		"sophisticatedbackpacks:feeding_upgrade",
+		"sophisticatedbackpacks:advanced_magnet_upgrade",
+		"sophisticatedbackpacks:magnet_upgrade"
 	],
 	// -----------------------------------------------------------
 	// Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

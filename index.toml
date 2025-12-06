@@ -54,7 +54,7 @@ hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "9af3b6cfb96859129b23f2a5b41c520282f04296eb0be4b974124541baf2ce0a"
+hash = "ad2ef525df6bf4ae7b4bb25222511b5d7b205bced52b5b21eb193756979d0a79"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -667,6 +667,11 @@ hash = "5139d96b1d02030f382f5f9524f67ac0fe50ee0e95d815d5ba3386d41bf52a90"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-chicken.pw.toml"
+hash = "727ed664274ebc3dd632560f4c611d1e04d9f3d138bb300302c1ff712726c34e"
+metafile = true
+
+[[files]]
 file = "mods/create-meta-logistics.pw.toml"
 hash = "7d27b03d586c8e42fe6626b73e1f66bcba8d78e25374d3c5d8b24ef81d3cf4ca"
 metafile = true
@@ -1139,6 +1144,11 @@ metafile = true
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "7d3dd71f0a173bcdae1016ffae45dd0bfb5d74655c459c73437d88ab76b6951c"
+metafile = true
+
+[[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
 
 [[files]]
