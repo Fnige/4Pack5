@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-meta-logistics.pw.toml"
-hash = "7d27b03d586c8e42fe6626b73e1f66bcba8d78e25374d3c5d8b24ef81d3cf4ca"
+hash = "4c682b6a4366aa2c8cc2ee53daa79e485d37e5c26071ac86464d2b35c2797ef6"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "520d7c8964a417e2309002c9a400172495a949d75d99952e296eac8993dedb3c"
+hash = "3680775e45f0de5615ce42ab84bfae6c3799998c10f2ba2ad73f3b3fbc95f52c"
 metafile = true
 
 [[files]]
@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
+hash = "4d27596894102cbf06785a37e659fcd19175537966224801a0b0d98aa78d9546"
 metafile = true
 
 [[files]]
@@ -1113,12 +1113,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "1d09669cac9fad91c06b914728f25b93aa4114cc61e336b3d03ff7025c849ebc"
+hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
 metafile = true
 
 [[files]]
@@ -1183,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
+hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
 metafile = true
 
 [[files]]
@@ -1367,6 +1367,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/sensible-stackables.pw.toml"
+hash = "37791f9c70e0f460e4e9b95cdbca790e5f4e272d486b8270e773abf851fef960"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
@@ -1533,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
+hash = "217b14db5967407f4a3b0b512646d6408e761e3c32fd6af5ebabb6649bf8b21d"
 metafile = true
 
 [[files]]
@@ -1643,7 +1648,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
+hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]

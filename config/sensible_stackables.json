@@ -1,0 +1,27 @@
+{
+  "items": {
+    "#minecraft:boats": 16,
+    "#minecraft:beds": 16,
+    "#sensible_stackables:horse_armor": 64,
+    "minecraft:enchanted_book": 64,
+    "#c:music_discs": 64,
+    "#sensible_stackables:banner_patterns": 64,
+    "minecraft:saddle": 16,
+    "#sensible_stackables:minecarts": 16,
+    "minecraft:ender_pearl": 64,
+    "minecraft:cake": 16,
+    "#c:buckets/empty": 64,
+    "#c:buckets/dye": 16,
+    "#c:buckets/water": 16,
+    "#c:buckets/lava": 16,
+    "#c:buckets/lumisene": 16,
+    "#c:buckets/powder_snow": 64,
+    "#c:buckets/milk": 16,
+    "#c:buckets/honey": 16,
+    "#c:buckets/chocolate": 16,
+    "#c:buckets/chicken_nutrient": 16
+  },
+  "splashPotionCooldown": 1,
+  "uncapStackSize": false,
+  "commonStackSize": 64
+}
