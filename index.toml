@@ -89,6 +89,10 @@ hash = "0d0d9b039727e912354f80b50ca50291a8cce72fe49cf9fccd223089958d9cc4"
 metafile = true
 
 [[files]]
+file = "config/sensible_stackables.json"
+hash = "e8c5ff2810da40e10ab0e2db6f9bf650c194f0853fb0144bb81d133a89ba48b7"
+
+[[files]]
 file = "config/servercore/config.yml"
 hash = "3af00c57a517b090e56fc8ed5f1adbf0afddfa3b54a1a8e489fd8dcb6a179a2d"
 
@@ -1538,7 +1542,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "217b14db5967407f4a3b0b512646d6408e761e3c32fd6af5ebabb6649bf8b21d"
+hash = "b301cee053c84951b89f9d3aba02f64e4a55f761d75a66977e26e61bb36f7744"
 metafile = true
 
 [[files]]
