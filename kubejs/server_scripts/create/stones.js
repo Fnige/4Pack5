@@ -1,5 +1,13 @@
 ServerEvents.recipes(event => {
 	event.recipes.create.mixing(
+		Item.of("minecraft:diorite"), 
+		[
+			Ingredient.of("#c:cobblestones"), 
+			Fluid.ingredientOf("minecraft:milk").withAmount(800)
+		]
+	).heated()
+
+	event.recipes.create.mixing(
 		Item.of("minecraft:calcite", 2),
 		[
 			Ingredient.of("minecraft:stone"),
@@ -34,6 +42,22 @@ ServerEvents.recipes(event => {
 			Ingredient.of("minecraft:clay_ball"),
 			Ingredient.of("minecraft:flint"),
 			Fluid.ingredientOf("minecraft:lava").withAmount(800)
+		]
+	)
+
+	event.recipes.create.mixing(
+		Item.of("minecraft:stone"),
+		[
+			Fluid.ingredientOf("minecraft:water").withAmount(250),
+			Fluid.ingredientOf("minecraft:lava").withAmount(250)
+		]
+	)
+
+	event.recipes.create.mixing(
+		Item.of("minecraft:deepslate"),
+		[
+			Ingredient.of("minecraft:stone"),
+			Fluid.ingredientOf("minecraft:lava").withAmount(250)
 		]
 	)
 

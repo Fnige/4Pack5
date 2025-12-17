@@ -58,5 +58,18 @@ ServerEvents.recipes(event => {
 		]
 	)
 
+	event.recipes.create.haunting(
+		Item.of("minecraft:charcoal"),
+		[
+			Ingredient.of("minecraft:coal")
+		]
+	)
+
+	event.recipes.create.haunting(
+		Item.of("minecraft:coal"),
+		[
+			Ingredient.of("minecraft:charcoal")
+		]
+	)
 	//#endregion
 })

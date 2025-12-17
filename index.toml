@@ -233,12 +233,16 @@ file = "kubejs/server_scripts/create/chromatic_revival.js"
 hash = "8ee7a2865e9a5aa4085afb9b4583dd72165534ce0bd6ba97f7c0c5056ff8da1b"
 
 [[files]]
+file = "kubejs/server_scripts/create/custom_recipes.js"
+hash = "20985142533e2f5da24310da2deb20cf03fa8412283b5368b024c7f2b7a7aa6b"
+
+[[files]]
 file = "kubejs/server_scripts/create/food.js"
 hash = "b3070865cd2ebc2164ba4ddbd6503b1f840da166a30f0537d581b543bf63dea8"
 
 [[files]]
 file = "kubejs/server_scripts/create/misc.js"
-hash = "edcb73c44a6cffa517f298cf295df9cbfd55634db5c8802b97cbc825495d1a2f"
+hash = "587208b03432ea088bf4c880989d05a702b40190ecd8b75efc28312dd23ad413"
 
 [[files]]
 file = "kubejs/server_scripts/create/oxidisation.js"
@@ -246,7 +250,7 @@ hash = "c130186f84a299cb15f7f977f60794e99bb3a3d25ea086cabc2e30e0a30f4ba5"
 
 [[files]]
 file = "kubejs/server_scripts/create/stones.js"
-hash = "379db59d839b42d02120899c4190bb92b056f7c5f7d1a6ebf1f74c39d3623ed3"
+hash = "e072b029c5c4ef00ebea131df0c4606f03371eb0cac3e20bb342c1f0e8ee2abe"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
